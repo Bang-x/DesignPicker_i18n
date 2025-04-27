@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Alat pemilih warna dan pendeteksi font yang cerdas"
+  },
+  "colors": {
+    "message": "Warna"
+  },
+  "colorsOnPage": {
+    "message": "Warna di Halaman Ini"
+  },
+  "unifiedView": {
+    "message": "Beralih ke Tampilan Terpadu"
+  },
+  "categoryView": {
+    "message": "Beralih ke Tampilan Kategori"
+  },
+  "allColors": {
+    "message": "Semua Warna"
+  },
+  "switchToFormat": {
+    "message": "Beralih ke $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Berhasil disalin."
+  },
+  "errorNoColors": {
+    "message": "Tidak ada warna yang ditemukan di halaman ini."
+  },
+  "errorExtraction": {
+    "message": "Ekstraksi warna tidak tersedia untuk halaman ini. Silakan coba halaman lain atau segarkan halaman ini."
+  },
+  "privacyPolicy": {
+    "message": "Kebijakan Privasi"
+  },
+  "rateUs": {
+    "message": "Beri Kami 5 Bintang"
+  },
+  "changelog": {
+    "message": "Catatan Perubahan"
+  },
+  "homepage": {
+    "message": "Kunjungi Beranda Kami"
+  },
+  "showingRecentFonts": {
+    "message": "Font Terbaru"
+  },
+  "defaultColorFormat": {
+    "message": "Format Warna Default"
+  },
+  "defaultColorFormatTip": {
+    "message": "Pilih format default untuk menampilkan nilai warna"
+  },
+  "colorHistory": {
+    "message": "Warna Terbaru"
+  },
+  "history": {
+    "message": "Warna Terbaru"
+  },
+  "pickColor": {
+    "message": "Pilih Warna"
+  },
+  "eyeDropperNotSupported": {
+    "message": "API EyeDropper tidak didukung di browser Anda"
+  },
+  "colorRed": {
+    "message": "Merah"
+  },
+  "colorOrange": {
+    "message": "Oranye"
+  },
+  "colorYellow": {
+    "message": "Kuning"
+  },
+  "colorLime": {
+    "message": "Limau"
+  },
+  "colorGreen": {
+    "message": "Hijau"
+  },
+  "colorCyan": {
+    "message": "Sian"
+  },
+  "colorBlue": {
+    "message": "Biru"
+  },
+  "colorPurple": {
+    "message": "Ungu"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Apakah Anda yakin ingin menghapus warna ini?"
+  },
+  "clearFontsConfirm": {
+    "message": "Apakah Anda yakin ingin menghapus SEMUA font yang tersimpan?"
+  },
+  "deleteFontConfirm": {
+    "message": "Apakah Anda yakin ingin menghapus font INI?"
+  },
+  "deleteColor": {
+    "message": "Hapus Warna"
+  },
+  "deleteFonts": {
+    "message": "Hapus Semua Font"
+  },
+  "clearFontsSuccess": {
+    "message": "Semua font berhasil dihapus"
+  },
+  "noRecentFonts": {
+    "message": "Tidak ada font terbaru yang ditemukan."
+  },
+  "colorPink": {
+    "message": "Merah Muda"
+  },
+  "colorBrown": {
+    "message": "Cokelat"
+  },
+  "colorBeige": {
+    "message": "Krem"
+  },
+  "feedbackTip": {
+    "message": "Umpan balik Anda membantu kami meningkatkan DesignPicker. Kami menghargai waktu dan saran Anda."
+  },
+  "surveyInvite": {
+    "message": "Bantu membentuk masa depan DesignPicker dengan berpartisipasi dalam survei pengguna kami."
+  },
+  "colorBlack": {
+    "message": "Hitam"
+  },
+  "settings": {
+    "message": "Pengaturan"
+  },
+  "about": {
+    "message": "Tentang"
+  },
+  "defaultSettings": {
+    "message": "Pengaturan Umum"
+  },
+  "defaultTab": {
+    "message": "Tab Default"
+  },
+  "colorTabDesc": {
+    "message": "Tab Warna: Lihat dan kelola warna di halaman"
+  },
+  "fontTabDesc": {
+    "message": "Tab Font: Lihat dan kelola font di halaman"
+  },
+  "categoryViewDesc": {
+    "message": "Tampilan Kategori: Tampilkan warna berdasarkan kategori"
+  },
+  "unifiedViewDesc": {
+    "message": "Tampilan Terpadu: Tampilkan semua warna dalam satu halaman"
+  },
+  "defaultTabTip": {
+    "message": "Tetapkan tab default yang akan ditampilkan saat membuka ekstensi"
+  },
+  "defaultColorLayout": {
+    "message": "Tata Letak Warna Default"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Pilih gaya tata letak default untuk tampilan warna"
+  },
+  "version": {
+    "message": "Versi"
+  },
+  "feedback": {
+    "message": "Umpan Balik"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Umpan Balik dan Saran"
+  },
+  "linksAndResources": {
+    "message": "Tautan dan Sumber Daya"
+  },
+  "colorWhite": {
+    "message": "Putih"
+  },
+  "colorGray": {
+    "message": "Abu-abu"
+  },
+  "colorOther": {
+    "message": "Lainnya"
+  },
+  "fontFamily": {
+    "message": "Keluarga Font"
+  },
+  "fontPreview": {
+    "message": "Pratinjau Font"
+  },
+  "fontStyles": {
+    "message": "Gaya Font"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informasi Font"
+  },
+  "fontUsageCount": {
+    "message": "Digunakan $1 kali di halaman ini",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Tidak dapat terhubung ke halaman. Silakan segarkan dan coba lagi."
+  },
+  "errorPageUnavailable": {
+    "message": "Ekstraksi warna tidak didukung di halaman ini. Silakan coba halaman lain."
+  },
+  "errorNoColorsFound": {
+    "message": "Tidak ada warna yang ditemukan di halaman ini."
+  },
+  "fonts": {
+    "message": "Font"
+  },
+  "pickFont": {
+    "message": "Pilih Font"
+  },
+  "fontCopied": {
+    "message": "Font disalin: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Tidak ada font yang ditemukan di posisi yang dipilih"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Konfirmasi"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "clearHistory": {
+    "message": "Hapus Riwayat"
+  },
+  "clearHistoryConfirm": {
+    "message": "Apakah Anda yakin ingin menghapus semua riwayat warna?"
+  },
+  "clearHistorySuccess": {
+    "message": "Riwayat warna berhasil dihapus"
+  },
+  "clearHistoryError": {
+    "message": "Gagal menghapus riwayat warna"
+  },
+  "emptyHistoryTip": {
+    "message": "Belum ada warna dalam riwayat. Gunakan pemilih warna untuk menambahkan warna."
+  },
+  "fontsOnPage": {
+    "message": "Font di Halaman Ini"
+  },
+  "fontPreviewText": {
+    "message": "Rubah cokelat cepat melompati anjing malas"
+  },
+  "pickingColorTip": {
+    "message": "Klik untuk memilih warna apa pun di layar"
+  },
+  "fontDetector": {
+    "message": "Detektor Font"
+  },
+  "exitFontDetector": {
+    "message": "Tekan ESC atau Klik Dua Kali untuk keluar dari Detektor Font"
+  },
+  "recentFonts": {
+    "message": "Font Terbaru"
+  },
+  "clearFonts": {
+    "message": "Hapus Font"
+  },
+  "saveFontSuccess": {
+    "message": "Font disimpan"
+  },
+  "fontInformation": {
+    "message": "Informasi Font"
+  },
+  "fontWeight": {
+    "message": "Ketebalan Font"
+  },
+  "fontSize": {
+    "message": "Ukuran Font"
+  },
+  "lineHeight": {
+    "message": "Tinggi Baris"
+  },
+  "fontColor": {
+    "message": "Warna Font"
+  },
+  "updateNoticeChangelog": {
+    "message": "Lihat Catatan Perubahan →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] untuk menyimpan font"
+  },
+  "fontSaved": {
+    "message": "Tersimpan"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "general": {
+    "message": "Umum"
+  },
+  "deleteColorSuccess": {
+    "message": "Warna berhasil dihapus"
+  },
+  "deleteColorError": {
+    "message": "Kesalahan saat menghapus warna"
+  }
+}

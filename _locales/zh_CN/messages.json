@@ -1,0 +1,314 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "专业的配色提取和字体检测工具"
+  },
+  "colors": {
+    "message": "颜色"
+  },
+  "colorsOnPage": {
+    "message": "页面配色"
+  },
+  "unifiedView": {
+    "message": "切换到统一视图"
+  },
+  "categoryView": {
+    "message": "切换到分类视图"
+  },
+  "allColors": {
+    "message": "所有颜色"
+  },
+  "switchToFormat": {
+    "message": "切换到 $format$ 格式",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "复制成功"
+  },
+  "errorNoColors": {
+    "message": "当前页面未找到颜色"
+  },
+  "errorExtraction": {
+    "message": "无法提取此页面的颜色，请尝试刷新页面或访问其他http开头的页面"
+  },
+  "privacyPolicy": {
+    "message": "隐私政策"
+  },
+  "rateUs": {
+    "message": "请给我们🖐️星好评哟"
+  },
+  "changelog": {
+    "message": "更新日志"
+  },
+  "homepage": {
+    "message": "访问我们的官网"
+  },
+  "showingRecentFonts": {
+    "message": "最近保存的字体"
+  },
+  "defaultColorFormat": {
+    "message": "默认颜色格式"
+  },
+  "defaultColorFormatTip": {
+    "message": "选择颜色值的默认显示格式"
+  },
+  "colorRed": {
+    "message": "红色"
+  },
+  "colorOrange": {
+    "message": "橙色"
+  },
+  "colorYellow": {
+    "message": "黄色"
+  },
+  "colorLime": {
+    "message": "青柠色"
+  },
+  "colorGreen": {
+    "message": "绿色"
+  },
+  "colorCyan": {
+    "message": "青色"
+  },
+  "colorBlue": {
+    "message": "蓝色"
+  },
+  "colorPurple": {
+    "message": "紫色"
+  },
+  "colorMagenta": {
+    "message": "品红色"
+  },
+  "deleteColorConfirm": {
+    "message": "确定要删除这个颜色吗？"
+  },
+  "deleteColor": {
+    "message": "删除颜色"
+  },
+  "deleteFonts": {
+    "message": "删除所有字体"
+  },
+  "clearFontsSuccess": {
+    "message": "所有字体已清除"   
+  },
+  "noRecentFonts": {
+    "message": "没有最近保存的字体"
+  },
+  "clearFontsConfirm": {
+    "message": "确定要清除所有已保存的字体吗？"
+  },
+  "deleteFontConfirm": {
+    "message": "确定要删除这个字体吗？"
+  },
+  
+  "colorPink": {
+    "message": "粉色"
+  },
+  "colorBrown": {
+    "message": "棕色"
+  },
+  "colorBeige": {
+    "message": "米色"
+  },
+  "feedbackTip": {
+    "message": "您的反馈对改进 DesignPicker 至关重要，感谢您的宝贵时间和建议。"
+  },
+  "surveyInvite": {
+    "message": "参与我们的用户调查，一起塑造 DesignPicker 的未来。"
+  },
+  "colorBlack": {
+    "message": "黑色"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "about": {
+    "message": "关于"
+  },
+  "defaultSettings": {
+    "message": "基础设置"
+  },
+  "defaultTab": {
+    "message": "默认标签页"
+  },
+  "colorTabDesc": {
+    "message": "颜色标签页：用于查看和管理页面中的颜色"
+  },
+  "fontTabDesc": {
+    "message": "字体标签页：用于查看和管理页面中的字体"
+  },
+  "categoryViewDesc": {
+    "message": "分类视图：按照类别展示颜色"
+  },
+  "unifiedViewDesc": {
+    "message": "统一视图：在一个页面中展示所有颜色"
+  },
+  "defaultTabTip": {
+    "message": "设置插件每次打开时显示的默认标签页"
+  },
+  "defaultColorLayout": {
+    "message": "默认颜色布局"
+  },
+  "defaultColorLayoutTip": {
+    "message": "选择颜色显示的默认布局样式"
+  },
+  "version": {
+    "message": "版本"
+  },
+  "feedback": {
+    "message": "反馈"
+  },
+  "feedbackAndSuggestions": {
+    "message": "反馈和建议"
+  },
+  "linksAndResources": {
+    "message": "链接和资源"
+  },
+  "colorWhite": {
+    "message": "白色"
+  },
+  "colorGray": {
+    "message": "灰色"
+  },
+  "colorOther": {
+    "message": "其他"
+  },
+  "fontFamily": {
+    "message": "字体"
+  },
+  "fontPreview": {
+    "message": "字体预览"
+  },
+  "fontStyles": {
+    "message": "字体样式"
+  },
+  "fontTechnicalInfo": {
+    "message": "字体信息"
+  },
+  "fontUsageCount": {
+    "message": "在此页面使用了 $1 次",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "colorHistory": {
+    "message": "颜色历史"
+  },
+  "history": {
+    "message": "最近的颜色"
+  },
+  "pickColor": {
+    "message": "取色器"
+  },
+  "eyeDropperNotSupported": {
+    "message": "您的浏览器不支持取色器功能"
+  },
+  "clearHistory": {
+    "message": "清除历史记录"
+  },
+  "clearHistoryConfirm": {
+    "message": "确定要清除所有颜色历史记录吗？"
+  },
+  "clearHistorySuccess": {
+    "message": "历史记录已清除"
+  },
+  "clearHistoryError": {
+    "message": "清除历史记录失败"
+  },
+  "errorConnection": {
+    "message": "连接错误：无法与页面建立连接，请刷新页面重试。"
+  },
+  "errorPageUnavailable": {
+    "message": "当前页面不支持颜色提取，请尝试其他页面。"
+  },
+  "errorNoColorsFound": {
+    "message": "当前页面未找到任何颜色。"
+  },
+  "fonts": {
+    "message": "字体"
+  },
+  "pickFont": {
+    "message": "识别字体"
+  },
+  "fontCopied": {
+    "message": "已复制字体：$font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "未在选中位置找到字体"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker - 设计助手"
+  },
+
+  "confirm": {
+    "message": "确认"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "emptyHistoryTip": {
+    "message": "暂无颜色历史记录，使用取色器添加颜色"
+  },
+  "fontsOnPage": {
+    "message": "页面字体"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "点击选择屏幕上的任意颜色"
+  },
+  "fontDetector": {
+    "message": "字体检测器"
+  },
+  "exitFontDetector": {
+    "message": "使用 ESC键 或 双击 退出字体检测器"
+  },
+  "recentFonts": {
+    "message": "最近的字体"
+  },
+  "clearFonts": {
+    "message": "清除所有字体" 
+  },
+  "saveFontSuccess": {
+    "message": "字体已收藏"
+  },
+  "fontInformation": {
+    "message": "Font Information"
+  },
+  "fontWeight": {
+    "message": "Font Weight"
+  },
+  "fontSize": {
+    "message": "Font Size"
+  },
+  "lineHeight": {
+    "message": "Line Height"
+  },
+  "fontColor": {
+    "message": "Font Color"
+  },
+  "updateNoticeChangelog": {
+    "message": "查看更新日志 →"
+  },
+  "clickshiftstoSave": {
+    "message": "按 [Shift+S] 保存字体"
+  },
+  "fontSaved": {
+    "message": "已保存"
+  }
+}
+

@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Una herramienta inteligente para selección de colores y detección de tipografías"
+  },
+  "colors": {
+    "message": "Colores"
+  },
+  "colorsOnPage": {
+    "message": "Colores en la página"
+  },
+  "unifiedView": {
+    "message": "Cambiar a vista unificada"
+  },
+  "categoryView": {
+    "message": "Cambiar a vista por categorías"
+  },
+  "allColors": {
+    "message": "Todos los colores"
+  },
+  "switchToFormat": {
+    "message": "Cambiar al formato $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Copiado con éxito"
+  },
+  "errorNoColors": {
+    "message": "No se encontraron colores en esta página"
+  },
+  "errorExtraction": {
+    "message": "La extracción de color no está disponible para esta página. Intente con otra página o actualice esta"
+  },
+  "privacyPolicy": {
+    "message": "Política de privacidad"
+  },
+  "rateUs": {
+    "message": "Valóranos 🖐️ estrellas"
+  },
+  "changelog": {
+    "message": "Registro de cambios"
+  },
+  "homepage": {
+    "message": "Visitar página principal"
+  },
+  "showingRecentFonts": {
+    "message": "Tipografías recientes"
+  },
+  "defaultColorFormat": {
+    "message": "Formato de color predeterminado"
+  },
+  "defaultColorFormatTip": {
+    "message": "Elija el formato predeterminado para mostrar los valores de color"
+  },
+  "colorHistory": {
+    "message": "Colores recientes"
+  },
+  "history": {
+    "message": "Colores recientes"
+  },
+  "pickColor": {
+    "message": "Seleccionar color"
+  },
+  "eyeDropperNotSupported": {
+    "message": "La API del Cuentagotas no es compatible con su navegador"
+  },
+  "colorRed": {
+    "message": "Rojo"
+  },
+  "colorOrange": {
+    "message": "Naranja"
+  },
+  "colorYellow": {
+    "message": "Amarillo"
+  },
+  "colorLime": {
+    "message": "Verde lima"
+  },
+  "colorGreen": {
+    "message": "Verde"
+  },
+  "colorCyan": {
+    "message": "Cian"
+  },
+  "colorBlue": {
+    "message": "Azul"
+  },
+  "colorPurple": {
+    "message": "Púrpura"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "¿Está seguro de que desea eliminar este color?"
+  },
+  "clearFontsConfirm": {
+    "message": "¿Está seguro de que desea eliminar TODAS las tipografías guardadas?"
+  },
+  "deleteFontConfirm": {
+    "message": "¿Está seguro de que desea eliminar ESTA tipografía?"
+  },
+  "deleteColor": {
+    "message": "Eliminar color"
+  },
+  "deleteFonts": {
+    "message": "Eliminar todas las tipografías"
+  },
+  "clearFontsSuccess": {
+    "message": "Todas las tipografías han sido eliminadas"
+  },
+  "noRecentFonts": {
+    "message": "No se encontraron tipografías recientes"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorBrown": {
+    "message": "Marrón"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Sus comentarios nos ayudan a mejorar DesignPicker. Apreciamos su tiempo y sugerencias"
+  },
+  "surveyInvite": {
+    "message": "Ayude a dar forma al futuro de DesignPicker participando en nuestra encuesta"
+  },
+  "colorBlack": {
+    "message": "Negro"
+  },
+  "settings": {
+    "message": "Configuración"
+  },
+  "about": {
+    "message": "Acerca de"
+  },
+  "defaultSettings": {
+    "message": "Configuración general"
+  },
+  "defaultTab": {
+    "message": "Pestaña predeterminada"
+  },
+  "colorTabDesc": {
+    "message": "Pestaña Colores: Ver y gestionar colores de la página"
+  },
+  "fontTabDesc": {
+    "message": "Pestaña Tipografías: Ver y gestionar tipografías de la página"
+  },
+  "categoryViewDesc": {
+    "message": "Vista por categorías: Mostrar colores por categoría"
+  },
+  "unifiedViewDesc": {
+    "message": "Vista unificada: Mostrar todos los colores en una página"
+  },
+  "defaultTabTip": {
+    "message": "Establecer la pestaña predeterminada que se mostrará al abrir la extensión"
+  },
+  "defaultColorLayout": {
+    "message": "Diseño de color predeterminado"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Elija el estilo de diseño predeterminado para la visualización de colores"
+  },
+  "version": {
+    "message": "Versión"
+  },
+  "feedback": {
+    "message": "Comentarios"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Comentarios y sugerencias"
+  },
+  "linksAndResources": {
+    "message": "Enlaces y recursos"
+  },
+  "colorWhite": {
+    "message": "Blanco"
+  },
+  "colorGray": {
+    "message": "Gris"
+  },
+  "colorOther": {
+    "message": "Otro"
+  },
+  "fontFamily": {
+    "message": "Familia tipográfica"
+  },
+  "fontPreview": {
+    "message": "Vista previa de tipografía"
+  },
+  "fontStyles": {
+    "message": "Estilos de tipografía"
+  },
+  "fontTechnicalInfo": {
+    "message": "Información técnica de tipografía"
+  },
+  "fontUsageCount": {
+    "message": "Usado $1 veces en esta página",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "No se puede conectar a la página. Por favor, actualice e intente de nuevo"
+  },
+  "errorPageUnavailable": {
+    "message": "La extracción de color no está soportada en esta página. Intente con otra página"
+  },
+  "errorNoColorsFound": {
+    "message": "No se encontraron colores en esta página"
+  },
+  "fonts": {
+    "message": "Tipografías"
+  },
+  "pickFont": {
+    "message": "Seleccionar tipografía"
+  },
+  "fontCopied": {
+    "message": "Tipografía copiada: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "No se encontró tipografía en la posición seleccionada"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Confirmar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "clearHistory": {
+    "message": "Borrar historial"
+  },
+  "clearHistoryConfirm": {
+    "message": "¿Está seguro de que desea borrar todo el historial de colores?"
+  },
+  "clearHistorySuccess": {
+    "message": "Historial de colores borrado con éxito"
+  },
+  "clearHistoryError": {
+    "message": "Error al borrar el historial de colores"
+  },
+  "emptyHistoryTip": {
+    "message": "No hay colores en el historial. Use el cuentagotas para agregar colores"
+  },
+  "fontsOnPage": {
+    "message": "Tipografías en la página"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "Haga clic para seleccionar cualquier color en la pantalla"
+  },
+  "fontDetector": {
+    "message": "Detector de tipografías"
+  },
+  "exitFontDetector": {
+    "message": "Presione ESC o haga doble clic para salir del detector de tipografías"
+  },
+  "recentFonts": {
+    "message": "Tipografías recientes"
+  },
+  "clearFonts": {
+    "message": "Borrar tipografías"
+  },
+  "saveFontSuccess": {
+    "message": "Tipografía guardada"
+  },
+  "fontInformation": {
+    "message": "Información de tipografía"
+  },
+  "fontWeight": {
+    "message": "Peso de tipografía"
+  },
+  "fontSize": {
+    "message": "Tamaño de tipografía"
+  },
+  "lineHeight": {
+    "message": "Altura de línea"
+  },
+  "fontColor": {
+    "message": "Color de tipografía"
+  },
+  "updateNoticeChangelog": {
+    "message": "Ver registro de cambios →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] para guardar tipografía"
+  },
+  "fontSaved": {
+    "message": "Tipografía guardada"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Un outil intelligent de sélection de couleurs et de détection de polices"
+  },
+  "colors": {
+    "message": "Couleurs"
+  },
+  "colorsOnPage": {
+    "message": "Couleurs sur la page"
+  },
+  "unifiedView": {
+    "message": "Passer à la vue unifiée"
+  },
+  "categoryView": {
+    "message": "Passer à la vue par catégorie"
+  },
+  "allColors": {
+    "message": "Toutes les couleurs"
+  },
+  "switchToFormat": {
+    "message": "Passer au format $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Copié avec succès"
+  },
+  "errorNoColors": {
+    "message": "Aucune couleur trouvée sur cette page"
+  },
+  "errorExtraction": {
+    "message": "L'extraction de couleur n'est pas disponible pour cette page. Essayez une autre page ou actualisez celle-ci"
+  },
+  "privacyPolicy": {
+    "message": "Politique de confidentialité"
+  },
+  "rateUs": {
+    "message": "Notez-nous 🖐️ étoiles"
+  },
+  "changelog": {
+    "message": "Journal des modifications"
+  },
+  "homepage": {
+    "message": "Visiter la page d'accueil"
+  },
+  "showingRecentFonts": {
+    "message": "Polices récentes"
+  },
+  "defaultColorFormat": {
+    "message": "Format de couleur par défaut"
+  },
+  "defaultColorFormatTip": {
+    "message": "Choisissez le format par défaut pour l'affichage des valeurs de couleur"
+  },
+  "colorHistory": {
+    "message": "Couleurs récentes"
+  },
+  "history": {
+    "message": "Couleurs récentes"
+  },
+  "pickColor": {
+    "message": "Sélectionner une couleur"
+  },
+  "eyeDropperNotSupported": {
+    "message": "L'API Pipette n'est pas prise en charge par votre navigateur"
+  },
+  "colorRed": {
+    "message": "Rouge"
+  },
+  "colorOrange": {
+    "message": "Orange"
+  },
+  "colorYellow": {
+    "message": "Jaune"
+  },
+  "colorLime": {
+    "message": "Vert citron"
+  },
+  "colorGreen": {
+    "message": "Vert"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Bleu"
+  },
+  "colorPurple": {
+    "message": "Violet"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Êtes-vous sûr de vouloir supprimer cette couleur ?"
+  },
+  "clearFontsConfirm": {
+    "message": "Êtes-vous sûr de vouloir supprimer TOUTES les polices enregistrées ?"
+  },
+  "deleteFontConfirm": {
+    "message": "Êtes-vous sûr de vouloir supprimer CETTE police ?"
+  },
+  "deleteColor": {
+    "message": "Supprimer la couleur"
+  },
+  "deleteFonts": {
+    "message": "Supprimer toutes les polices"
+  },
+  "clearFontsSuccess": {
+    "message": "Toutes les polices ont été supprimées"
+  },
+  "noRecentFonts": {
+    "message": "Aucune police récente trouvée"
+  },
+  "colorPink": {
+    "message": "Rose"
+  },
+  "colorBrown": {
+    "message": "Marron"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Vos commentaires nous aident à améliorer DesignPicker. Nous apprécions votre temps et vos suggestions"
+  },
+  "surveyInvite": {
+    "message": "Aidez à façonner l'avenir de DesignPicker en participant à notre enquête"
+  },
+  "colorBlack": {
+    "message": "Noir"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "about": {
+    "message": "À propos"
+  },
+  "defaultSettings": {
+    "message": "Paramètres généraux"
+  },
+  "defaultTab": {
+    "message": "Onglet par défaut"
+  },
+  "colorTabDesc": {
+    "message": "Onglet Couleurs : Afficher et gérer les couleurs de la page"
+  },
+  "fontTabDesc": {
+    "message": "Onglet Polices : Afficher et gérer les polices de la page"
+  },
+  "categoryViewDesc": {
+    "message": "Vue par catégorie : Afficher les couleurs par catégorie"
+  },
+  "unifiedViewDesc": {
+    "message": "Vue unifiée : Afficher toutes les couleurs sur une page"
+  },
+  "defaultTabTip": {
+    "message": "Définir l'onglet par défaut à afficher à l'ouverture de l'extension"
+  },
+  "defaultColorLayout": {
+    "message": "Disposition des couleurs par défaut"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Choisissez le style de disposition par défaut pour l'affichage des couleurs"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "feedback": {
+    "message": "Retour d'expérience"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Retours et suggestions"
+  },
+  "linksAndResources": {
+    "message": "Liens et ressources"
+  },
+  "colorWhite": {
+    "message": "Blanc"
+  },
+  "colorGray": {
+    "message": "Gris"
+  },
+  "colorOther": {
+    "message": "Autre"
+  },
+  "fontFamily": {
+    "message": "Famille de police"
+  },
+  "fontPreview": {
+    "message": "Aperçu de la police"
+  },
+  "fontStyles": {
+    "message": "Styles de police"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informations techniques de la police"
+  },
+  "fontUsageCount": {
+    "message": "Utilisé $1 fois sur cette page",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Impossible de se connecter à la page. Veuillez actualiser et réessayer"
+  },
+  "errorPageUnavailable": {
+    "message": "L'extraction de couleur n'est pas prise en charge sur cette page. Essayez une autre page"
+  },
+  "errorNoColorsFound": {
+    "message": "Aucune couleur trouvée sur cette page"
+  },
+  "fonts": {
+    "message": "Polices"
+  },
+  "pickFont": {
+    "message": "Sélectionner une police"
+  },
+  "fontCopied": {
+    "message": "Police copiée : $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Aucune police trouvée à la position sélectionnée"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Confirmer"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "clearHistory": {
+    "message": "Effacer l'historique"
+  },
+  "clearHistoryConfirm": {
+    "message": "Voulez-vous vraiment effacer tout l'historique des couleurs ?"
+  },
+  "clearHistorySuccess": {
+    "message": "Historique des couleurs effacé avec succès"
+  },
+  "clearHistoryError": {
+    "message": "Échec de l'effacement de l'historique des couleurs"
+  },
+  "emptyHistoryTip": {
+    "message": "Aucune couleur dans l'historique. Utilisez la pipette pour ajouter des couleurs"
+  },
+  "fontsOnPage": {
+    "message": "Polices sur la page"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "Cliquez pour sélectionner une couleur à l'écran"
+  },
+  "fontDetector": {
+    "message": "Détecteur de polices"
+  },
+  "exitFontDetector": {
+    "message": "Appuyez sur ESC ou double-cliquez pour quitter le détecteur de polices"
+  },
+  "recentFonts": {
+    "message": "Polices récentes"
+  },
+  "clearFonts": {
+    "message": "Effacer les polices"
+  },
+  "saveFontSuccess": {
+    "message": "Police enregistrée"
+  },
+  "fontInformation": {
+    "message": "Informations sur la police"
+  },
+  "fontWeight": {
+    "message": "Graisse de police"
+  },
+  "fontSize": {
+    "message": "Taille de police"
+  },
+  "lineHeight": {
+    "message": "Hauteur de ligne"
+  },
+  "fontColor": {
+    "message": "Couleur de police"
+  },
+  "updateNoticeChangelog": {
+    "message": "Voir le journal des modifications →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] pour enregistrer la police"
+  },
+  "fontSaved": {
+    "message": "Police enregistrée"
+  }
+}

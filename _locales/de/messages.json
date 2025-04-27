@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Ein intelligentes Werkzeug zur Farbauswahl und Schriftartenerkennung"
+  },
+  "colors": {
+    "message": "Farben"
+  },
+  "colorsOnPage": {
+    "message": "Farben auf dieser Seite"
+  },
+  "unifiedView": {
+    "message": "Zur einheitlichen Ansicht wechseln"
+  },
+  "categoryView": {
+    "message": "Zur Kategorieansicht wechseln"
+  },
+  "allColors": {
+    "message": "Alle Farben"
+  },
+  "switchToFormat": {
+    "message": "Zu $format$ wechseln",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Erfolgreich kopiert."
+  },
+  "errorNoColors": {
+    "message": "Keine Farben auf dieser Seite gefunden."
+  },
+  "errorExtraction": {
+    "message": "Farbextraktion ist für diese Seite nicht verfügbar. Bitte versuchen Sie eine andere Seite oder aktualisieren Sie diese Seite."
+  },
+  "privacyPolicy": {
+    "message": "Datenschutzrichtlinie"
+  },
+  "rateUs": {
+    "message": "Bewerten Sie uns mit 5 Sternen"
+  },
+  "changelog": {
+    "message": "Änderungsprotokoll"
+  },
+  "homepage": {
+    "message": "Besuchen Sie unsere Homepage"
+  },
+  "showingRecentFonts": {
+    "message": "Kürzlich verwendete Schriftarten"
+  },
+  "defaultColorFormat": {
+    "message": "Standard-Farbformat"
+  },
+  "defaultColorFormatTip": {
+    "message": "Wählen Sie das Standardformat für die Anzeige von Farbwerten"
+  },
+  "colorHistory": {
+    "message": "Kürzlich verwendete Farben"
+  },
+  "history": {
+    "message": "Kürzlich verwendete Farben"
+  },
+  "pickColor": {
+    "message": "Farbe auswählen"
+  },
+  "eyeDropperNotSupported": {
+    "message": "Die EyeDropper-API wird in Ihrem Browser nicht unterstützt"
+  },
+  "colorRed": {
+    "message": "Rot"
+  },
+  "colorOrange": {
+    "message": "Orange"
+  },
+  "colorYellow": {
+    "message": "Gelb"
+  },
+  "colorLime": {
+    "message": "Limette"
+  },
+  "colorGreen": {
+    "message": "Grün"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Blau"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Sind Sie sicher, dass Sie diese Farbe löschen möchten?"
+  },
+  "clearFontsConfirm": {
+    "message": "Sind Sie sicher, dass Sie ALLE GESPEICHERTEN Schriftarten löschen möchten?"
+  },
+  "deleteFontConfirm": {
+    "message": "Sind Sie sicher, dass Sie DIESE Schriftart löschen möchten?"
+  },
+  "deleteColor": {
+    "message": "Farbe löschen"
+  },
+  "deleteFonts": {
+    "message": "Alle Schriftarten löschen"
+  },
+  "clearFontsSuccess": {
+    "message": "Alle Schriftarten wurden erfolgreich gelöscht"
+  },
+  "noRecentFonts": {
+    "message": "Keine kürzlich verwendeten Schriftarten gefunden."
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorBrown": {
+    "message": "Braun"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Ihr Feedback hilft uns, DesignPicker zu verbessern. Wir schätzen Ihre Zeit und Vorschläge."
+  },
+  "surveyInvite": {
+    "message": "Helfen Sie mit, die Zukunft von DesignPicker zu gestalten, indem Sie an unserer Benutzerumfrage teilnehmen."
+  },
+  "colorBlack": {
+    "message": "Schwarz"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "about": {
+    "message": "Über"
+  },
+  "defaultSettings": {
+    "message": "Allgemeine Einstellungen"
+  },
+  "defaultTab": {
+    "message": "Standardregisterkarte"
+  },
+  "colorTabDesc": {
+    "message": "Farben-Tab: Farben auf der Seite anzeigen und verwalten"
+  },
+  "fontTabDesc": {
+    "message": "Schriftarten-Tab: Schriftarten auf der Seite anzeigen und verwalten"
+  },
+  "categoryViewDesc": {
+    "message": "Kategorieansicht: Farben nach Kategorie anzeigen"
+  },
+  "unifiedViewDesc": {
+    "message": "Einheitliche Ansicht: Alle Farben auf einer Seite anzeigen"
+  },
+  "defaultTabTip": {
+    "message": "Legen Sie die Standardregisterkarte fest, die beim Öffnen der Erweiterung angezeigt wird"
+  },
+  "defaultColorLayout": {
+    "message": "Standard-Farblayout"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Wählen Sie den Standard-Layoutstil für die Farbanzeige"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback und Vorschläge"
+  },
+  "linksAndResources": {
+    "message": "Links und Ressourcen"
+  },
+  "colorWhite": {
+    "message": "Weiß"
+  },
+  "colorGray": {
+    "message": "Grau"
+  },
+  "colorOther": {
+    "message": "Andere"
+  },
+  "fontFamily": {
+    "message": "Schriftfamilie"
+  },
+  "fontPreview": {
+    "message": "Schriftvorschau"
+  },
+  "fontStyles": {
+    "message": "Schriftstile"
+  },
+  "fontTechnicalInfo": {
+    "message": "Schriftinformationen"
+  },
+  "fontUsageCount": {
+    "message": "$1 mal auf dieser Seite verwendet",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Verbindung zur Seite nicht möglich. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut."
+  },
+  "errorPageUnavailable": {
+    "message": "Farbextraktion wird auf dieser Seite nicht unterstützt. Bitte versuchen Sie eine andere Seite."
+  },
+  "errorNoColorsFound": {
+    "message": "Keine Farben auf dieser Seite gefunden."
+  },
+  "fonts": {
+    "message": "Schriftarten"
+  },
+  "pickFont": {
+    "message": "Schriftart auswählen"
+  },
+  "fontCopied": {
+    "message": "Schriftart kopiert: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Keine Schriftart an der ausgewählten Position gefunden"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Bestätigen"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "clearHistory": {
+    "message": "Verlauf löschen"
+  },
+  "clearHistoryConfirm": {
+    "message": "Sind Sie sicher, dass Sie den gesamten Farbverlauf löschen möchten?"
+  },
+  "clearHistorySuccess": {
+    "message": "Farbverlauf erfolgreich gelöscht"
+  },
+  "clearHistoryError": {
+    "message": "Fehler beim Löschen des Farbverlaufs"
+  },
+  "emptyHistoryTip": {
+    "message": "Noch keine Farben im Verlauf. Verwenden Sie die Farbauswahl, um Farben hinzuzufügen."
+  },
+  "fontsOnPage": {
+    "message": "Schriftarten auf dieser Seite"
+  },
+  "fontPreviewText": {
+    "message": "Der schnelle braune Fuchs springt über den faulen Hund"
+  },
+  "pickingColorTip": {
+    "message": "Klicken Sie, um eine beliebige Farbe auf dem Bildschirm auszuwählen"
+  },
+  "fontDetector": {
+    "message": "Schriftartendetektor"
+  },
+  "exitFontDetector": {
+    "message": "Drücken Sie ESC oder Doppelklicken Sie, um den Schriftartendetektor zu verlassen"
+  },
+  "recentFonts": {
+    "message": "Kürzlich verwendete Schriftarten"
+  },
+  "clearFonts": {
+    "message": "Schriftarten löschen"
+  },
+  "saveFontSuccess": {
+    "message": "Schriftart gespeichert"
+  },
+  "fontInformation": {
+    "message": "Schriftinformationen"
+  },
+  "fontWeight": {
+    "message": "Schriftstärke"
+  },
+  "fontSize": {
+    "message": "Schriftgröße"
+  },
+  "lineHeight": {
+    "message": "Zeilenhöhe"
+  },
+  "fontColor": {
+    "message": "Schriftfarbe"
+  },
+  "updateNoticeChangelog": {
+    "message": "Änderungsprotokoll anzeigen →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] zum Speichern der Schriftart"
+  },
+  "fontSaved": {
+    "message": "Gespeichert"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "general": {
+    "message": "Allgemein"
+  },
+  "deleteColorSuccess": {
+    "message": "Farbe erfolgreich entfernt"
+  },
+  "deleteColorError": {
+    "message": "Fehler beim Entfernen der Farbe"
+  }
+}

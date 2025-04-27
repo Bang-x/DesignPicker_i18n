@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "A smart color picker & font detect tool "
+  },
+  "colors": {
+    "message": "Colors"
+  },
+  "colorsOnPage": {
+    "message": "Colors on This Page"
+  },
+  "unifiedView": {
+    "message": "Switch to Unified View"
+  },
+  "categoryView": {
+    "message": "Switch to Category View"
+  },
+  "allColors": {
+    "message": "All Colors"
+  },
+  "switchToFormat": {
+    "message": "Switch to $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Copied Successfully."
+  },
+  "errorNoColors": {
+    "message": "No colors found on this page."
+  },
+  "errorExtraction": {
+    "message": "Color extraction is not available for this page. Please try a different page or refresh this page."
+  },
+  "privacyPolicy": {
+    "message": "Privacy Policy"
+  },
+  "rateUs": {
+    "message": "Rate Us 🖐️ Stars"
+  },
+  "changelog": {
+    "message": "Changelog"
+  },
+  "homepage": {
+    "message": "Visit Our Homepage"
+  },
+  "showingRecentFonts": {
+    "message": "Recent fonts"
+  },
+  "defaultColorFormat": {
+    "message": "Default Color Format"
+  },
+  "defaultColorFormatTip": {
+    "message": "Choose the default format for displaying color values"
+  },
+  "colorHistory": {
+    "message": "Recent Colors"
+  },
+  "history": {
+    "message": "Recent Colors"
+  },
+  "pickColor": {
+    "message": "Pick a color"
+  },
+  "eyeDropperNotSupported": {
+    "message": "EyeDropper API is not supported in your browser"
+  },
+  "colorRed": {
+    "message": "Red"
+  },
+  "colorOrange": {
+    "message": "Orange"
+  },
+  "colorYellow": {
+    "message": "Yellow"
+  },
+  "colorLime": {
+    "message": "Lime"
+  },
+  "colorGreen": {
+    "message": "Green"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Blue"
+  },
+  "colorPurple": {
+    "message": "Purple"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Are you sure you want to delete this color?"
+  },
+  "clearFontsConfirm": {
+    "message": "Are you sure you want to clear ALL SAVED fonts?"
+  },
+  "deleteFontConfirm": {
+    "message": "Are you sure you want to delete THIS font?"
+  },
+  "deleteColor": {
+    "message": "Delete Color"
+  },
+  "deleteFonts": {
+    "message": "Clear All Fonts"
+  },
+  "clearFontsSuccess": {
+    "message": "All fonts have been cleared successfully"
+  },
+  "noRecentFonts": {
+    "message": "No recent fonts found."
+  },
+  "colorPink": {
+    "message": "Pink"
+  },
+  "colorBrown": {
+    "message": "Brown"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Your feedback helps us improve DesignPicker. We appreciate your time and suggestions."
+  },
+  "surveyInvite": {
+    "message": "Help shape the future of DesignPicker by participating in our user survey."
+  },
+  "colorBlack": {
+    "message": "Black"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "about": {
+    "message": "About"
+  },
+  "defaultSettings": {
+    "message": "General Settings"
+  },
+  "defaultTab": {
+    "message": "Default Tab"
+  },
+  "colorTabDesc": {
+    "message": "Colors tab: View and manage colors on the page"
+  },
+  "fontTabDesc": {
+    "message": "Fonts tab: View and manage fonts on the page"
+  },
+  "categoryViewDesc": {
+    "message": "Category view: Display colors by category"
+  },
+  "unifiedViewDesc": {
+    "message": "Unified view: Display all colors in one page"
+  },
+  "defaultTabTip": {
+    "message": "Set the default tab to display when opening the extension"
+  },
+  "defaultColorLayout": {
+    "message": "Default Color Layout"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Choose the default layout style for the color display"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback & Suggestions"
+  },
+  "linksAndResources": {
+    "message": "Links & Resources"
+  },
+  "colorWhite": {
+    "message": "White"
+  },
+  "colorGray": {
+    "message": "Gray"
+  },
+  "colorOther": {
+    "message": "Other"
+  },
+  "fontFamily": {
+    "message": "Font Family"
+  },
+  "fontPreview": {
+    "message": "Font Preview"
+  },
+  "fontStyles": {
+    "message": "Font Styles"
+  },
+  "fontTechnicalInfo": {
+    "message": "Font Information"
+  },
+  "fontUsageCount": {
+    "message": "Used $1 times on this page",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Unable to connect to the page. Please refresh and try again."
+  },
+  "errorPageUnavailable": {
+    "message": "Color extraction is not supported on this page. Please try another page."
+  },
+  "errorNoColorsFound": {
+    "message": "No colors found on this page."
+  },
+  "fonts": {
+    "message": "Fonts"
+  },
+  "pickFont": {
+    "message": "Pick Font"
+  },
+  "fontCopied": {
+    "message": "Font copied: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "No font found at selected position"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Confirm"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "clearHistory": {
+    "message": "Clear History"
+  },
+  "clearHistoryConfirm": {
+    "message": "Are you sure you want to clear all color history?"
+  },
+  "clearHistorySuccess": {
+    "message": "Color history cleared successfully"
+  },
+  "clearHistoryError": {
+    "message": "Failed to clear color history"
+  },
+  "emptyHistoryTip": {
+    "message": "No colors in history yet. Use the color picker to add colors."
+  },
+  "fontsOnPage": {
+    "message": "Fonts on This Page"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "Click to select any color on screen"
+  },
+  "fontDetector": {
+    "message": "Font Detector"
+  },
+  "exitFontDetector": {
+    "message": "Press ESC or DoubleClick to exit Font Detector"
+  },
+  "recentFonts": {
+    "message": "Recent Fonts"
+  },
+  "clearFonts": {
+    "message": "Clear Fonts"
+  },
+  "saveFontSuccess": {
+    "message": "Font saved"
+  },
+  "fontInformation": {
+    "message": "Font Information"
+  },
+  "fontWeight": {
+    "message": "Font Weight"
+  },
+  "fontSize": {
+    "message": "Font Size"
+  },
+  "lineHeight": {
+    "message": "Line Height"
+  },
+  "fontColor": {
+    "message": "Font Color"
+  },
+  "updateNoticeChangelog": {
+    "message": "View Changelog →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] to save font"
+  },
+  "fontSaved": {
+    "message": "Saved"
+  }
+}

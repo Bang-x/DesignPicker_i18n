@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Intelligens színválasztó és betűtípus-felismerő eszköz"
+  },
+  "colors": {
+    "message": "Színek"
+  },
+  "colorsOnPage": {
+    "message": "Színek ezen az oldalon"
+  },
+  "unifiedView": {
+    "message": "Váltás egységes nézetre"
+  },
+  "categoryView": {
+    "message": "Váltás kategória nézetre"
+  },
+  "allColors": {
+    "message": "Összes szín"
+  },
+  "switchToFormat": {
+    "message": "Váltás erre: $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Sikeresen másolva."
+  },
+  "errorNoColors": {
+    "message": "Nem található szín ezen az oldalon."
+  },
+  "errorExtraction": {
+    "message": "A színkinyerés nem érhető el ezen az oldalon. Kérjük, próbáljon meg egy másik oldalt, vagy frissítse ezt az oldalt."
+  },
+  "privacyPolicy": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "rateUs": {
+    "message": "Értékeljen minket 5 csillaggal"
+  },
+  "changelog": {
+    "message": "Változásnapló"
+  },
+  "homepage": {
+    "message": "Látogassa meg honlapunkat"
+  },
+  "showingRecentFonts": {
+    "message": "Legutóbbi betűtípusok"
+  },
+  "defaultColorFormat": {
+    "message": "Alapértelmezett színformátum"
+  },
+  "defaultColorFormatTip": {
+    "message": "Válassza ki az alapértelmezett formátumot a színértékek megjelenítéséhez"
+  },
+  "colorHistory": {
+    "message": "Legutóbbi színek"
+  },
+  "history": {
+    "message": "Legutóbbi színek"
+  },
+  "pickColor": {
+    "message": "Szín kiválasztása"
+  },
+  "eyeDropperNotSupported": {
+    "message": "Az EyeDropper API nem támogatott a böngészőjében"
+  },
+  "colorRed": {
+    "message": "Piros"
+  },
+  "colorOrange": {
+    "message": "Narancssárga"
+  },
+  "colorYellow": {
+    "message": "Sárga"
+  },
+  "colorLime": {
+    "message": "Lime"
+  },
+  "colorGreen": {
+    "message": "Zöld"
+  },
+  "colorCyan": {
+    "message": "Cián"
+  },
+  "colorBlue": {
+    "message": "Kék"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Biztosan törölni szeretné ezt a színt?"
+  },
+  "clearFontsConfirm": {
+    "message": "Biztosan törölni szeretné az ÖSSZES MENTETT betűtípust?"
+  },
+  "deleteFontConfirm": {
+    "message": "Biztosan törölni szeretné EZT a betűtípust?"
+  },
+  "deleteColor": {
+    "message": "Szín törlése"
+  },
+  "deleteFonts": {
+    "message": "Összes betűtípus törlése"
+  },
+  "clearFontsSuccess": {
+    "message": "Az összes betűtípus sikeresen törölve"
+  },
+  "noRecentFonts": {
+    "message": "Nem található legutóbbi betűtípus."
+  },
+  "colorPink": {
+    "message": "Rózsaszín"
+  },
+  "colorBrown": {
+    "message": "Barna"
+  },
+  "colorBeige": {
+    "message": "Bézs"
+  },
+  "feedbackTip": {
+    "message": "Visszajelzése segít nekünk a DesignPicker fejlesztésében. Köszönjük az idejét és javaslatait."
+  },
+  "surveyInvite": {
+    "message": "Segítsen alakítani a DesignPicker jövőjét a felhasználói felmérésünkben való részvétellel."
+  },
+  "colorBlack": {
+    "message": "Fekete"
+  },
+  "settings": {
+    "message": "Beállítások"
+  },
+  "about": {
+    "message": "Névjegy"
+  },
+  "defaultSettings": {
+    "message": "Általános beállítások"
+  },
+  "defaultTab": {
+    "message": "Alapértelmezett lap"
+  },
+  "colorTabDesc": {
+    "message": "Színek lap: Színek megtekintése és kezelése az oldalon"
+  },
+  "fontTabDesc": {
+    "message": "Betűtípusok lap: Betűtípusok megtekintése és kezelése az oldalon"
+  },
+  "categoryViewDesc": {
+    "message": "Kategória nézet: Színek megjelenítése kategória szerint"
+  },
+  "unifiedViewDesc": {
+    "message": "Egységes nézet: Minden szín megjelenítése egy oldalon"
+  },
+  "defaultTabTip": {
+    "message": "Állítsa be az alapértelmezett lapot, amely a bővítmény megnyitásakor megjelenik"
+  },
+  "defaultColorLayout": {
+    "message": "Alapértelmezett színelrendezés"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Válassza ki az alapértelmezett elrendezési stílust a színek megjelenítéséhez"
+  },
+  "version": {
+    "message": "Verzió"
+  },
+  "feedback": {
+    "message": "Visszajelzés"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Visszajelzés és javaslatok"
+  },
+  "linksAndResources": {
+    "message": "Linkek és erőforrások"
+  },
+  "colorWhite": {
+    "message": "Fehér"
+  },
+  "colorGray": {
+    "message": "Szürke"
+  },
+  "colorOther": {
+    "message": "Egyéb"
+  },
+  "fontFamily": {
+    "message": "Betűcsalád"
+  },
+  "fontPreview": {
+    "message": "Betűtípus előnézet"
+  },
+  "fontStyles": {
+    "message": "Betűtípus stílusok"
+  },
+  "fontTechnicalInfo": {
+    "message": "Betűtípus információk"
+  },
+  "fontUsageCount": {
+    "message": "$1 alkalommal használva ezen az oldalon",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Nem sikerült kapcsolódni az oldalhoz. Kérjük, frissítse az oldalt és próbálja újra."
+  },
+  "errorPageUnavailable": {
+    "message": "A színkinyerés nem támogatott ezen az oldalon. Kérjük, próbáljon meg egy másik oldalt."
+  },
+  "errorNoColorsFound": {
+    "message": "Nem található szín ezen az oldalon."
+  },
+  "fonts": {
+    "message": "Betűtípusok"
+  },
+  "pickFont": {
+    "message": "Betűtípus kiválasztása"
+  },
+  "fontCopied": {
+    "message": "Betűtípus másolva: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Nem található betűtípus a kiválasztott pozícióban"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Megerősítés"
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "clearHistory": {
+    "message": "Előzmények törlése"
+  },
+  "clearHistoryConfirm": {
+    "message": "Biztosan törölni szeretné az összes színelőzményt?"
+  },
+  "clearHistorySuccess": {
+    "message": "A színelőzmények sikeresen törölve"
+  },
+  "clearHistoryError": {
+    "message": "Hiba történt a színelőzmények törlésekor"
+  },
+  "emptyHistoryTip": {
+    "message": "Még nincsenek színek az előzményekben. Használja a színválasztót színek hozzáadásához."
+  },
+  "fontsOnPage": {
+    "message": "Betűtípusok ezen az oldalon"
+  },
+  "fontPreviewText": {
+    "message": "A gyors barna róka átugorja a lusta kutyát"
+  },
+  "pickingColorTip": {
+    "message": "Kattintson bármely szín kiválasztásához a képernyőn"
+  },
+  "fontDetector": {
+    "message": "Betűtípus-felismerő"
+  },
+  "exitFontDetector": {
+    "message": "Nyomja meg az ESC billentyűt vagy kattintson duplán a Betűtípus-felismerőből való kilépéshez"
+  },
+  "recentFonts": {
+    "message": "Legutóbbi betűtípusok"
+  },
+  "clearFonts": {
+    "message": "Betűtípusok törlése"
+  },
+  "saveFontSuccess": {
+    "message": "Betűtípus mentve"
+  },
+  "fontInformation": {
+    "message": "Betűtípus információk"
+  },
+  "fontWeight": {
+    "message": "Betűtípus vastagság"
+  },
+  "fontSize": {
+    "message": "Betűméret"
+  },
+  "lineHeight": {
+    "message": "Sormagasság"
+  },
+  "fontColor": {
+    "message": "Betűszín"
+  },
+  "updateNoticeChangelog": {
+    "message": "Változásnapló megtekintése →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] a betűtípus mentéséhez"
+  },
+  "fontSaved": {
+    "message": "Mentve"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "general": {
+    "message": "Általános"
+  },
+  "deleteColorSuccess": {
+    "message": "A szín sikeresen eltávolítva"
+  },
+  "deleteColorError": {
+    "message": "Hiba történt a szín eltávolításakor"
+  }
+}

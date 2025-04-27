@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Et smart farvevælger- og skrifttypedetekteringsværktøj"
+  },
+  "colors": {
+    "message": "Farver"
+  },
+  "colorsOnPage": {
+    "message": "Farver på denne side"
+  },
+  "unifiedView": {
+    "message": "Skift til samlet visning"
+  },
+  "categoryView": {
+    "message": "Skift til kategorivisning"
+  },
+  "allColors": {
+    "message": "Alle farver"
+  },
+  "switchToFormat": {
+    "message": "Skift til $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Kopieret med succes."
+  },
+  "errorNoColors": {
+    "message": "Ingen farver fundet på denne side."
+  },
+  "errorExtraction": {
+    "message": "Farveudtrækning er ikke tilgængelig for denne side. Prøv venligst en anden side eller opdater denne side."
+  },
+  "privacyPolicy": {
+    "message": "Privatlivspolitik"
+  },
+  "rateUs": {
+    "message": "Bedøm os med 5 stjerner"
+  },
+  "changelog": {
+    "message": "Ændringslog"
+  },
+  "homepage": {
+    "message": "Besøg vores hjemmeside"
+  },
+  "showingRecentFonts": {
+    "message": "Seneste skrifttyper"
+  },
+  "defaultColorFormat": {
+    "message": "Standard farveformat"
+  },
+  "defaultColorFormatTip": {
+    "message": "Vælg standardformatet til visning af farveværdier"
+  },
+  "colorHistory": {
+    "message": "Seneste farver"
+  },
+  "history": {
+    "message": "Seneste farver"
+  },
+  "pickColor": {
+    "message": "Vælg en farve"
+  },
+  "eyeDropperNotSupported": {
+    "message": "EyeDropper API understøttes ikke i din browser"
+  },
+  "colorRed": {
+    "message": "Rød"
+  },
+  "colorOrange": {
+    "message": "Orange"
+  },
+  "colorYellow": {
+    "message": "Gul"
+  },
+  "colorLime": {
+    "message": "Limegrøn"
+  },
+  "colorGreen": {
+    "message": "Grøn"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Blå"
+  },
+  "colorPurple": {
+    "message": "Lilla"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Er du sikker på, at du vil slette denne farve?"
+  },
+  "clearFontsConfirm": {
+    "message": "Er du sikker på, at du vil rydde ALLE GEMTE skrifttyper?"
+  },
+  "deleteFontConfirm": {
+    "message": "Er du sikker på, at du vil slette DENNE skrifttype?"
+  },
+  "deleteColor": {
+    "message": "Slet farve"
+  },
+  "deleteFonts": {
+    "message": "Ryd alle skrifttyper"
+  },
+  "clearFontsSuccess": {
+    "message": "Alle skrifttyper er blevet ryddet med succes"
+  },
+  "noRecentFonts": {
+    "message": "Ingen seneste skrifttyper fundet."
+  },
+  "colorPink": {
+    "message": "Pink"
+  },
+  "colorBrown": {
+    "message": "Brun"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Din feedback hjælper os med at forbedre DesignPicker. Vi sætter pris på din tid og forslag."
+  },
+  "surveyInvite": {
+    "message": "Hjælp med at forme fremtiden for DesignPicker ved at deltage i vores brugerundersøgelse."
+  },
+  "colorBlack": {
+    "message": "Sort"
+  },
+  "settings": {
+    "message": "Indstillinger"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "defaultSettings": {
+    "message": "Generelle indstillinger"
+  },
+  "defaultTab": {
+    "message": "Standardfane"
+  },
+  "colorTabDesc": {
+    "message": "Farvefane: Se og administrer farver på siden"
+  },
+  "fontTabDesc": {
+    "message": "Skrifttypefane: Se og administrer skrifttyper på siden"
+  },
+  "categoryViewDesc": {
+    "message": "Kategorivisning: Vis farver efter kategori"
+  },
+  "unifiedViewDesc": {
+    "message": "Samlet visning: Vis alle farver på én side"
+  },
+  "defaultTabTip": {
+    "message": "Indstil standardfanen, der skal vises, når udvidelsen åbnes"
+  },
+  "defaultColorLayout": {
+    "message": "Standard farvelayout"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Vælg standard layoutstil til farvevisning"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback og forslag"
+  },
+  "linksAndResources": {
+    "message": "Links og ressourcer"
+  },
+  "colorWhite": {
+    "message": "Hvid"
+  },
+  "colorGray": {
+    "message": "Grå"
+  },
+  "colorOther": {
+    "message": "Anden"
+  },
+  "fontFamily": {
+    "message": "Skrifttypefamilie"
+  },
+  "fontPreview": {
+    "message": "Skrifttypeforhåndsvisning"
+  },
+  "fontStyles": {
+    "message": "Skrifttypestile"
+  },
+  "fontTechnicalInfo": {
+    "message": "Skrifttypeinformation"
+  },
+  "fontUsageCount": {
+    "message": "Brugt $1 gange på denne side",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Kan ikke oprette forbindelse til siden. Opdater venligst og prøv igen."
+  },
+  "errorPageUnavailable": {
+    "message": "Farveudtrækning understøttes ikke på denne side. Prøv venligst en anden side."
+  },
+  "errorNoColorsFound": {
+    "message": "Ingen farver fundet på denne side."
+  },
+  "fonts": {
+    "message": "Skrifttyper"
+  },
+  "pickFont": {
+    "message": "Vælg skrifttype"
+  },
+  "fontCopied": {
+    "message": "Skrifttype kopieret: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Ingen skrifttype fundet på den valgte position"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Bekræft"
+  },
+  "cancel": {
+    "message": "Annuller"
+  },
+  "clearHistory": {
+    "message": "Ryd historik"
+  },
+  "clearHistoryConfirm": {
+    "message": "Er du sikker på, at du vil rydde al farvehistorik?"
+  },
+  "clearHistorySuccess": {
+    "message": "Farvehistorikken blev ryddet med succes"
+  },
+  "clearHistoryError": {
+    "message": "Fejl ved rydning af farvehistorik"
+  },
+  "emptyHistoryTip": {
+    "message": "Ingen farver i historikken endnu. Brug farvevælgeren til at tilføje farver."
+  },
+  "fontsOnPage": {
+    "message": "Skrifttyper på denne side"
+  },
+  "fontPreviewText": {
+    "message": "Den hurtige brune ræv springer over den dovne hund"
+  },
+  "pickingColorTip": {
+    "message": "Klik for at vælge enhver farve på skærmen"
+  },
+  "fontDetector": {
+    "message": "Skrifttypedetektor"
+  },
+  "exitFontDetector": {
+    "message": "Tryk på ESC eller dobbeltklik for at afslutte skrifttypedetektoren"
+  },
+  "recentFonts": {
+    "message": "Seneste skrifttyper"
+  },
+  "clearFonts": {
+    "message": "Ryd skrifttyper"
+  },
+  "saveFontSuccess": {
+    "message": "Skrifttype gemt"
+  },
+  "fontInformation": {
+    "message": "Skrifttypeinformation"
+  },
+  "fontWeight": {
+    "message": "Skrifttypevægt"
+  },
+  "fontSize": {
+    "message": "Skriftstørrelse"
+  },
+  "lineHeight": {
+    "message": "Linjehøjde"
+  },
+  "fontColor": {
+    "message": "Skriftfarve"
+  },
+  "updateNoticeChangelog": {
+    "message": "Se ændringslog →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] for at gemme skrifttype"
+  },
+  "fontSaved": {
+    "message": "Gemt"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "general": {
+    "message": "Generelt"
+  },
+  "deleteColorSuccess": {
+    "message": "Farven blev fjernet med succes"
+  },
+  "deleteColorError": {
+    "message": "Fejl ved fjernelse af farve"
+  }
+}

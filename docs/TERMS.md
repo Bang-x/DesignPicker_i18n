@@ -1,4 +1,4 @@
-# 术语表 | Terminology Guide
+# Terminology Guide | 术语表 
 
 [English](#terminology-guide) | [中文](#术语表)
 
@@ -58,6 +58,7 @@ This document provides key terms used in the DesignPicker extension and their st
 | Language | 语言 | 語言 | Language setting of the application |
 
 
+---
 
 
 ## 术语表

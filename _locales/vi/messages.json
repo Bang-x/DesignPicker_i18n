@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Công cụ chọn màu thông minh và phát hiện phông chữ"
+  },
+  "colors": {
+    "message": "Màu sắc"
+  },
+  "colorsOnPage": {
+    "message": "Màu sắc trên trang này"
+  },
+  "unifiedView": {
+    "message": "Chuyển sang chế độ xem thống nhất"
+  },
+  "categoryView": {
+    "message": "Chuyển sang chế độ xem theo danh mục"
+  },
+  "allColors": {
+    "message": "Tất cả màu sắc"
+  },
+  "switchToFormat": {
+    "message": "Chuyển sang $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Đã sao chép thành công."
+  },
+  "errorNoColors": {
+    "message": "Không tìm thấy màu sắc nào trên trang này."
+  },
+  "errorExtraction": {
+    "message": "Không thể trích xuất màu sắc cho trang này. Vui lòng thử trang khác hoặc làm mới trang này."
+  },
+  "privacyPolicy": {
+    "message": "Chính sách bảo mật"
+  },
+  "rateUs": {
+    "message": "Đánh giá 5 sao cho chúng tôi"
+  },
+  "changelog": {
+    "message": "Nhật ký thay đổi"
+  },
+  "homepage": {
+    "message": "Truy cập trang chủ của chúng tôi"
+  },
+  "showingRecentFonts": {
+    "message": "Phông chữ gần đây"
+  },
+  "defaultColorFormat": {
+    "message": "Định dạng màu mặc định"
+  },
+  "defaultColorFormatTip": {
+    "message": "Chọn định dạng mặc định để hiển thị giá trị màu"
+  },
+  "colorHistory": {
+    "message": "Màu sắc gần đây"
+  },
+  "history": {
+    "message": "Màu sắc gần đây"
+  },
+  "pickColor": {
+    "message": "Chọn một màu"
+  },
+  "eyeDropperNotSupported": {
+    "message": "API EyeDropper không được hỗ trợ trong trình duyệt của bạn"
+  },
+  "colorRed": {
+    "message": "Đỏ"
+  },
+  "colorOrange": {
+    "message": "Cam"
+  },
+  "colorYellow": {
+    "message": "Vàng"
+  },
+  "colorLime": {
+    "message": "Vàng chanh"
+  },
+  "colorGreen": {
+    "message": "Xanh lá"
+  },
+  "colorCyan": {
+    "message": "Xanh lơ"
+  },
+  "colorBlue": {
+    "message": "Xanh dương"
+  },
+  "colorPurple": {
+    "message": "Tím"
+  },
+  "colorMagenta": {
+    "message": "Hồng sẫm"
+  },
+  "deleteColorConfirm": {
+    "message": "Bạn có chắc chắn muốn xóa màu này không?"
+  },
+  "clearFontsConfirm": {
+    "message": "Bạn có chắc chắn muốn xóa TẤT CẢ phông chữ đã lưu không?"
+  },
+  "deleteFontConfirm": {
+    "message": "Bạn có chắc chắn muốn xóa phông chữ NÀY không?"
+  },
+  "deleteColor": {
+    "message": "Xóa màu"
+  },
+  "deleteFonts": {
+    "message": "Xóa tất cả phông chữ"
+  },
+  "clearFontsSuccess": {
+    "message": "Đã xóa tất cả phông chữ thành công"
+  },
+  "noRecentFonts": {
+    "message": "Không tìm thấy phông chữ gần đây nào."
+  },
+  "colorPink": {
+    "message": "Hồng"
+  },
+  "colorBrown": {
+    "message": "Nâu"
+  },
+  "colorBeige": {
+    "message": "Be"
+  },
+  "feedbackTip": {
+    "message": "Phản hồi của bạn giúp chúng tôi cải thiện DesignPicker. Chúng tôi đánh giá cao thời gian và đề xuất của bạn."
+  },
+  "surveyInvite": {
+    "message": "Hãy giúp định hình tương lai của DesignPicker bằng cách tham gia khảo sát người dùng của chúng tôi."
+  },
+  "colorBlack": {
+    "message": "Đen"
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+  "about": {
+    "message": "Giới thiệu"
+  },
+  "defaultSettings": {
+    "message": "Cài đặt chung"
+  },
+  "defaultTab": {
+    "message": "Tab mặc định"
+  },
+  "colorTabDesc": {
+    "message": "Tab Màu sắc: Xem và quản lý màu sắc trên trang"
+  },
+  "fontTabDesc": {
+    "message": "Tab Phông chữ: Xem và quản lý phông chữ trên trang"
+  },
+  "categoryViewDesc": {
+    "message": "Chế độ xem theo danh mục: Hiển thị màu sắc theo danh mục"
+  },
+  "unifiedViewDesc": {
+    "message": "Chế độ xem thống nhất: Hiển thị tất cả màu sắc trên một trang"
+  },
+  "defaultTabTip": {
+    "message": "Đặt tab mặc định hiển thị khi mở tiện ích"
+  },
+  "defaultColorLayout": {
+    "message": "Bố cục màu mặc định"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Chọn kiểu bố cục mặc định để hiển thị màu sắc"
+  },
+  "version": {
+    "message": "Phiên bản"
+  },
+  "feedback": {
+    "message": "Phản hồi"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Phản hồi và đề xuất"
+  },
+  "linksAndResources": {
+    "message": "Liên kết và tài nguyên"
+  },
+  "colorWhite": {
+    "message": "Trắng"
+  },
+  "colorGray": {
+    "message": "Xám"
+  },
+  "colorOther": {
+    "message": "Khác"
+  },
+  "fontFamily": {
+    "message": "Họ phông chữ"
+  },
+  "fontPreview": {
+    "message": "Xem trước phông chữ"
+  },
+  "fontStyles": {
+    "message": "Kiểu phông chữ"
+  },
+  "fontTechnicalInfo": {
+    "message": "Thông tin phông chữ"
+  },
+  "fontUsageCount": {
+    "message": "Được sử dụng $1 lần trên trang này",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Không thể kết nối đến trang. Vui lòng làm mới và thử lại."
+  },
+  "errorPageUnavailable": {
+    "message": "Trích xuất màu sắc không được hỗ trợ trên trang này. Vui lòng thử trang khác."
+  },
+  "errorNoColorsFound": {
+    "message": "Không tìm thấy màu sắc nào trên trang này."
+  },
+  "fonts": {
+    "message": "Phông chữ"
+  },
+  "pickFont": {
+    "message": "Chọn phông chữ"
+  },
+  "fontCopied": {
+    "message": "Đã sao chép phông chữ: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Không tìm thấy phông chữ nào tại vị trí đã chọn"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Xác nhận"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "clearHistory": {
+    "message": "Xóa lịch sử"
+  },
+  "clearHistoryConfirm": {
+    "message": "Bạn có chắc chắn muốn xóa toàn bộ lịch sử màu sắc không?"
+  },
+  "clearHistorySuccess": {
+    "message": "Đã xóa lịch sử màu sắc thành công"
+  },
+  "clearHistoryError": {
+    "message": "Không thể xóa lịch sử màu sắc"
+  },
+  "emptyHistoryTip": {
+    "message": "Chưa có màu sắc nào trong lịch sử. Sử dụng công cụ chọn màu để thêm màu sắc."
+  },
+  "fontsOnPage": {
+    "message": "Phông chữ trên trang này"
+  },
+  "fontPreviewText": {
+    "message": "Con cáo nâu nhanh nhẹn nhảy qua con chó lười biếng"
+  },
+  "pickingColorTip": {
+    "message": "Nhấp để chọn bất kỳ màu nào trên màn hình"
+  },
+  "fontDetector": {
+    "message": "Công cụ phát hiện phông chữ"
+  },
+  "exitFontDetector": {
+    "message": "Nhấn ESC hoặc Nhấp đúp để thoát khỏi Công cụ phát hiện phông chữ"
+  },
+  "recentFonts": {
+    "message": "Phông chữ gần đây"
+  },
+  "clearFonts": {
+    "message": "Xóa phông chữ"
+  },
+  "saveFontSuccess": {
+    "message": "Đã lưu phông chữ"
+  },
+  "fontInformation": {
+    "message": "Thông tin phông chữ"
+  },
+  "fontWeight": {
+    "message": "Độ đậm phông chữ"
+  },
+  "fontSize": {
+    "message": "Kích thước phông chữ"
+  },
+  "lineHeight": {
+    "message": "Chiều cao dòng"
+  },
+  "fontColor": {
+    "message": "Màu phông chữ"
+  },
+  "updateNoticeChangelog": {
+    "message": "Xem nhật ký thay đổi →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] để lưu phông chữ"
+  },
+  "fontSaved": {
+    "message": "Đã lưu"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "general": {
+    "message": "Chung"
+  },
+  "deleteColorSuccess": {
+    "message": "Đã xóa màu thành công"
+  },
+  "deleteColorError": {
+    "message": "Lỗi khi xóa màu"
+  }
+}

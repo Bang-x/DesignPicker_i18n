@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Inteligentne narzędzie do wybierania kolorów i wykrywania czcionek"
+  },
+  "colors": {
+    "message": "Kolory"
+  },
+  "colorsOnPage": {
+    "message": "Kolory na tej stronie"
+  },
+  "unifiedView": {
+    "message": "Przełącz na widok jednolity"
+  },
+  "categoryView": {
+    "message": "Przełącz na widok kategorii"
+  },
+  "allColors": {
+    "message": "Wszystkie kolory"
+  },
+  "switchToFormat": {
+    "message": "Przełącz na $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Pomyślnie skopiowano."
+  },
+  "errorNoColors": {
+    "message": "Nie znaleziono kolorów na tej stronie."
+  },
+  "errorExtraction": {
+    "message": "Ekstrakcja kolorów nie jest dostępna dla tej strony. Spróbuj innej strony lub odśwież tę stronę."
+  },
+  "privacyPolicy": {
+    "message": "Polityka prywatności"
+  },
+  "rateUs": {
+    "message": "Oceń nas na 5 gwiazdek"
+  },
+  "changelog": {
+    "message": "Dziennik zmian"
+  },
+  "homepage": {
+    "message": "Odwiedź naszą stronę główną"
+  },
+  "showingRecentFonts": {
+    "message": "Ostatnie czcionki"
+  },
+  "defaultColorFormat": {
+    "message": "Domyślny format koloru"
+  },
+  "defaultColorFormatTip": {
+    "message": "Wybierz domyślny format wyświetlania wartości kolorów"
+  },
+  "colorHistory": {
+    "message": "Ostatnie kolory"
+  },
+  "history": {
+    "message": "Ostatnie kolory"
+  },
+  "pickColor": {
+    "message": "Wybierz kolor"
+  },
+  "eyeDropperNotSupported": {
+    "message": "API EyeDropper nie jest obsługiwane w Twojej przeglądarce"
+  },
+  "colorRed": {
+    "message": "Czerwony"
+  },
+  "colorOrange": {
+    "message": "Pomarańczowy"
+  },
+  "colorYellow": {
+    "message": "Żółty"
+  },
+  "colorLime": {
+    "message": "Limonkowy"
+  },
+  "colorGreen": {
+    "message": "Zielony"
+  },
+  "colorCyan": {
+    "message": "Cyjan"
+  },
+  "colorBlue": {
+    "message": "Niebieski"
+  },
+  "colorPurple": {
+    "message": "Fioletowy"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Czy na pewno chcesz usunąć ten kolor?"
+  },
+  "clearFontsConfirm": {
+    "message": "Czy na pewno chcesz wyczyścić WSZYSTKIE ZAPISANE czcionki?"
+  },
+  "deleteFontConfirm": {
+    "message": "Czy na pewno chcesz usunąć TĘ czcionkę?"
+  },
+  "deleteColor": {
+    "message": "Usuń kolor"
+  },
+  "deleteFonts": {
+    "message": "Wyczyść wszystkie czcionki"
+  },
+  "clearFontsSuccess": {
+    "message": "Wszystkie czcionki zostały pomyślnie wyczyszczone"
+  },
+  "noRecentFonts": {
+    "message": "Nie znaleziono ostatnich czcionek."
+  },
+  "colorPink": {
+    "message": "Różowy"
+  },
+  "colorBrown": {
+    "message": "Brązowy"
+  },
+  "colorBeige": {
+    "message": "Beżowy"
+  },
+  "feedbackTip": {
+    "message": "Twoja opinia pomaga nam ulepszać DesignPicker. Doceniamy Twój czas i sugestie."
+  },
+  "surveyInvite": {
+    "message": "Pomóż kształtować przyszłość DesignPicker, biorąc udział w naszej ankiecie dla użytkowników."
+  },
+  "colorBlack": {
+    "message": "Czarny"
+  },
+  "settings": {
+    "message": "Ustawienia"
+  },
+  "about": {
+    "message": "O programie"
+  },
+  "defaultSettings": {
+    "message": "Ustawienia ogólne"
+  },
+  "defaultTab": {
+    "message": "Domyślna karta"
+  },
+  "colorTabDesc": {
+    "message": "Karta kolorów: Przeglądaj i zarządzaj kolorami na stronie"
+  },
+  "fontTabDesc": {
+    "message": "Karta czcionek: Przeglądaj i zarządzaj czcionkami na stronie"
+  },
+  "categoryViewDesc": {
+    "message": "Widok kategorii: Wyświetla kolory według kategorii"
+  },
+  "unifiedViewDesc": {
+    "message": "Widok jednolity: Wyświetla wszystkie kolory na jednej stronie"
+  },
+  "defaultTabTip": {
+    "message": "Ustaw domyślną kartę, która będzie wyświetlana po otwarciu rozszerzenia"
+  },
+  "defaultColorLayout": {
+    "message": "Domyślny układ kolorów"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Wybierz domyślny styl układu do wyświetlania kolorów"
+  },
+  "version": {
+    "message": "Wersja"
+  },
+  "feedback": {
+    "message": "Opinie"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Opinie i sugestie"
+  },
+  "linksAndResources": {
+    "message": "Linki i zasoby"
+  },
+  "colorWhite": {
+    "message": "Biały"
+  },
+  "colorGray": {
+    "message": "Szary"
+  },
+  "colorOther": {
+    "message": "Inny"
+  },
+  "fontFamily": {
+    "message": "Rodzina czcionek"
+  },
+  "fontPreview": {
+    "message": "Podgląd czcionki"
+  },
+  "fontStyles": {
+    "message": "Style czcionki"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informacje o czcionce"
+  },
+  "fontUsageCount": {
+    "message": "Użyta $1 razy na tej stronie",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Nie można połączyć się ze stroną. Odśwież i spróbuj ponownie."
+  },
+  "errorPageUnavailable": {
+    "message": "Ekstrakcja kolorów nie jest obsługiwana na tej stronie. Spróbuj innej strony."
+  },
+  "errorNoColorsFound": {
+    "message": "Nie znaleziono kolorów na tej stronie."
+  },
+  "fonts": {
+    "message": "Czcionki"
+  },
+  "pickFont": {
+    "message": "Wybierz czcionkę"
+  },
+  "fontCopied": {
+    "message": "Skopiowano czcionkę: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Nie znaleziono czcionki w wybranej pozycji"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Potwierdź"
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "clearHistory": {
+    "message": "Wyczyść historię"
+  },
+  "clearHistoryConfirm": {
+    "message": "Czy na pewno chcesz wyczyścić całą historię kolorów?"
+  },
+  "clearHistorySuccess": {
+    "message": "Historia kolorów została pomyślnie wyczyszczona"
+  },
+  "clearHistoryError": {
+    "message": "Nie udało się wyczyścić historii kolorów"
+  },
+  "emptyHistoryTip": {
+    "message": "Brak kolorów w historii. Użyj selektora kolorów, aby dodać kolory."
+  },
+  "fontsOnPage": {
+    "message": "Czcionki na tej stronie"
+  },
+  "fontPreviewText": {
+    "message": "Zwinny brązowy lis przeskakuje nad leniwym psem"
+  },
+  "pickingColorTip": {
+    "message": "Kliknij, aby wybrać dowolny kolor na ekranie"
+  },
+  "fontDetector": {
+    "message": "Detektor czcionek"
+  },
+  "exitFontDetector": {
+    "message": "Naciśnij ESC lub kliknij dwukrotnie, aby wyjść z detektora czcionek"
+  },
+  "recentFonts": {
+    "message": "Ostatnie czcionki"
+  },
+  "clearFonts": {
+    "message": "Wyczyść czcionki"
+  },
+  "saveFontSuccess": {
+    "message": "Czcionka zapisana"
+  },
+  "fontInformation": {
+    "message": "Informacje o czcionce"
+  },
+  "fontWeight": {
+    "message": "Grubość czcionki"
+  },
+  "fontSize": {
+    "message": "Rozmiar czcionki"
+  },
+  "lineHeight": {
+    "message": "Wysokość linii"
+  },
+  "fontColor": {
+    "message": "Kolor czcionki"
+  },
+  "updateNoticeChangelog": {
+    "message": "Zobacz dziennik zmian →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] aby zapisać czcionkę"
+  },
+  "fontSaved": {
+    "message": "Zapisano"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "general": {
+    "message": "Ogólne"
+  },
+  "deleteColorSuccess": {
+    "message": "Kolor został pomyślnie usunięty"
+  },
+  "deleteColorError": {
+    "message": "Błąd podczas usuwania koloru"
+  }
+}

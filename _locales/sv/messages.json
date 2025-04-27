@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Ett smart färgväljar- och teckensnittsdetekteringsverktyg"
+  },
+  "colors": {
+    "message": "Färger"
+  },
+  "colorsOnPage": {
+    "message": "Färger på denna sida"
+  },
+  "unifiedView": {
+    "message": "Byt till enhetlig vy"
+  },
+  "categoryView": {
+    "message": "Byt till kategorivy"
+  },
+  "allColors": {
+    "message": "Alla färger"
+  },
+  "switchToFormat": {
+    "message": "Byt till $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Kopierad framgångsrikt."
+  },
+  "errorNoColors": {
+    "message": "Inga färger hittades på denna sida."
+  },
+  "errorExtraction": {
+    "message": "Färgextraktion är inte tillgänglig för denna sida. Prova en annan sida eller uppdatera denna sida."
+  },
+  "privacyPolicy": {
+    "message": "Integritetspolicy"
+  },
+  "rateUs": {
+    "message": "Betygsätt oss med 5 stjärnor"
+  },
+  "changelog": {
+    "message": "Ändringslogg"
+  },
+  "homepage": {
+    "message": "Besök vår hemsida"
+  },
+  "showingRecentFonts": {
+    "message": "Senaste teckensnitt"
+  },
+  "defaultColorFormat": {
+    "message": "Standard färgformat"
+  },
+  "defaultColorFormatTip": {
+    "message": "Välj standardformat för att visa färgvärden"
+  },
+  "colorHistory": {
+    "message": "Senaste färger"
+  },
+  "history": {
+    "message": "Senaste färger"
+  },
+  "pickColor": {
+    "message": "Välj en färg"
+  },
+  "eyeDropperNotSupported": {
+    "message": "EyeDropper API stöds inte i din webbläsare"
+  },
+  "colorRed": {
+    "message": "Röd"
+  },
+  "colorOrange": {
+    "message": "Orange"
+  },
+  "colorYellow": {
+    "message": "Gul"
+  },
+  "colorLime": {
+    "message": "Lime"
+  },
+  "colorGreen": {
+    "message": "Grön"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Blå"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Är du säker på att du vill ta bort denna färg?"
+  },
+  "clearFontsConfirm": {
+    "message": "Är du säker på att du vill rensa ALLA SPARADE teckensnitt?"
+  },
+  "deleteFontConfirm": {
+    "message": "Är du säker på att du vill ta bort DETTA teckensnitt?"
+  },
+  "deleteColor": {
+    "message": "Ta bort färg"
+  },
+  "deleteFonts": {
+    "message": "Rensa alla teckensnitt"
+  },
+  "clearFontsSuccess": {
+    "message": "Alla teckensnitt har rensats framgångsrikt"
+  },
+  "noRecentFonts": {
+    "message": "Inga senaste teckensnitt hittades."
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorBrown": {
+    "message": "Brun"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Din feedback hjälper oss att förbättra DesignPicker. Vi uppskattar din tid och förslag."
+  },
+  "surveyInvite": {
+    "message": "Hjälp till att forma framtiden för DesignPicker genom att delta i vår användarundersökning."
+  },
+  "colorBlack": {
+    "message": "Svart"
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "defaultSettings": {
+    "message": "Allmänna inställningar"
+  },
+  "defaultTab": {
+    "message": "Standardflik"
+  },
+  "colorTabDesc": {
+    "message": "Färgflik: Visa och hantera färger på sidan"
+  },
+  "fontTabDesc": {
+    "message": "Teckensnittsflik: Visa och hantera teckensnitt på sidan"
+  },
+  "categoryViewDesc": {
+    "message": "Kategorivy: Visar färger efter kategori"
+  },
+  "unifiedViewDesc": {
+    "message": "Enhetlig vy: Visar alla färger på en sida"
+  },
+  "defaultTabTip": {
+    "message": "Ställ in standardfliken som visas när tillägget öppnas"
+  },
+  "defaultColorLayout": {
+    "message": "Standard färglayout"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Välj standard layoutstil för färgvisning"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback och förslag"
+  },
+  "linksAndResources": {
+    "message": "Länkar och resurser"
+  },
+  "colorWhite": {
+    "message": "Vit"
+  },
+  "colorGray": {
+    "message": "Grå"
+  },
+  "colorOther": {
+    "message": "Annan"
+  },
+  "fontFamily": {
+    "message": "Teckensnittsfamilj"
+  },
+  "fontPreview": {
+    "message": "Förhandsgranskning av teckensnitt"
+  },
+  "fontStyles": {
+    "message": "Teckensnittsstilar"
+  },
+  "fontTechnicalInfo": {
+    "message": "Teckensnittsinformation"
+  },
+  "fontUsageCount": {
+    "message": "Använd $1 gånger på denna sida",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Kan inte ansluta till sidan. Uppdatera och försök igen."
+  },
+  "errorPageUnavailable": {
+    "message": "Färgextraktion stöds inte på denna sida. Prova en annan sida."
+  },
+  "errorNoColorsFound": {
+    "message": "Inga färger hittades på denna sida."
+  },
+  "fonts": {
+    "message": "Teckensnitt"
+  },
+  "pickFont": {
+    "message": "Välj teckensnitt"
+  },
+  "fontCopied": {
+    "message": "Teckensnitt kopierat: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Inget teckensnitt hittades på den valda positionen"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Bekräfta"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "clearHistory": {
+    "message": "Rensa historik"
+  },
+  "clearHistoryConfirm": {
+    "message": "Är du säker på att du vill rensa hela färghistoriken?"
+  },
+  "clearHistorySuccess": {
+    "message": "Färghistoriken har rensats framgångsrikt"
+  },
+  "clearHistoryError": {
+    "message": "Kunde inte rensa färghistoriken"
+  },
+  "emptyHistoryTip": {
+    "message": "Inga färger i historiken ännu. Använd färgväljaren för att lägga till färger."
+  },
+  "fontsOnPage": {
+    "message": "Teckensnitt på denna sida"
+  },
+  "fontPreviewText": {
+    "message": "Den snabba bruna räven hoppar över den lata hunden"
+  },
+  "pickingColorTip": {
+    "message": "Klicka för att välja valfri färg på skärmen"
+  },
+  "fontDetector": {
+    "message": "Teckensnittsdetektorn"
+  },
+  "exitFontDetector": {
+    "message": "Tryck på ESC eller dubbelklicka för att avsluta Teckensnittsdetektorn"
+  },
+  "recentFonts": {
+    "message": "Senaste teckensnitt"
+  },
+  "clearFonts": {
+    "message": "Rensa teckensnitt"
+  },
+  "saveFontSuccess": {
+    "message": "Teckensnitt sparat"
+  },
+  "fontInformation": {
+    "message": "Teckensnittsinformation"
+  },
+  "fontWeight": {
+    "message": "Teckensnittsvikt"
+  },
+  "fontSize": {
+    "message": "Teckensnittsstorlek"
+  },
+  "lineHeight": {
+    "message": "Radhöjd"
+  },
+  "fontColor": {
+    "message": "Teckensnittsfärg"
+  },
+  "updateNoticeChangelog": {
+    "message": "Visa ändringslogg →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] för att spara teckensnitt"
+  },
+  "fontSaved": {
+    "message": "Sparat"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "general": {
+    "message": "Allmänt"
+  },
+  "deleteColorSuccess": {
+    "message": "Färgen har tagits bort framgångsrikt"
+  },
+  "deleteColorError": {
+    "message": "Fel vid borttagning av färg"
+  }
+}

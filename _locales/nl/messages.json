@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Een slimme kleurenkiezer en lettertype-detectietool"
+  },
+  "colors": {
+    "message": "Kleuren"
+  },
+  "colorsOnPage": {
+    "message": "Kleuren op deze pagina"
+  },
+  "unifiedView": {
+    "message": "Overschakelen naar uniforme weergave"
+  },
+  "categoryView": {
+    "message": "Overschakelen naar categorieweergave"
+  },
+  "allColors": {
+    "message": "Alle kleuren"
+  },
+  "switchToFormat": {
+    "message": "Overschakelen naar $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Succesvol gekopieerd."
+  },
+  "errorNoColors": {
+    "message": "Geen kleuren gevonden op deze pagina."
+  },
+  "errorExtraction": {
+    "message": "Kleurextractie is niet beschikbaar voor deze pagina. Probeer een andere pagina of vernieuw deze pagina."
+  },
+  "privacyPolicy": {
+    "message": "Privacybeleid"
+  },
+  "rateUs": {
+    "message": "Beoordeel ons met 5 sterren"
+  },
+  "changelog": {
+    "message": "Wijzigingslogboek"
+  },
+  "homepage": {
+    "message": "Bezoek onze startpagina"
+  },
+  "showingRecentFonts": {
+    "message": "Recente lettertypen"
+  },
+  "defaultColorFormat": {
+    "message": "Standaard kleurformaat"
+  },
+  "defaultColorFormatTip": {
+    "message": "Kies het standaardformaat voor het weergeven van kleurwaarden"
+  },
+  "colorHistory": {
+    "message": "Recente kleuren"
+  },
+  "history": {
+    "message": "Recente kleuren"
+  },
+  "pickColor": {
+    "message": "Selecteer een kleur"
+  },
+  "eyeDropperNotSupported": {
+    "message": "De EyeDropper API wordt niet ondersteund in uw browser"
+  },
+  "colorRed": {
+    "message": "Rood"
+  },
+  "colorOrange": {
+    "message": "Oranje"
+  },
+  "colorYellow": {
+    "message": "Geel"
+  },
+  "colorLime": {
+    "message": "Limoen"
+  },
+  "colorGreen": {
+    "message": "Groen"
+  },
+  "colorCyan": {
+    "message": "Cyaan"
+  },
+  "colorBlue": {
+    "message": "Blauw"
+  },
+  "colorPurple": {
+    "message": "Paars"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Weet u zeker dat u deze kleur wilt verwijderen?"
+  },
+  "clearFontsConfirm": {
+    "message": "Weet u zeker dat u ALLE OPGESLAGEN lettertypen wilt wissen?"
+  },
+  "deleteFontConfirm": {
+    "message": "Weet u zeker dat u DIT lettertype wilt verwijderen?"
+  },
+  "deleteColor": {
+    "message": "Kleur verwijderen"
+  },
+  "deleteFonts": {
+    "message": "Alle lettertypen wissen"
+  },
+  "clearFontsSuccess": {
+    "message": "Alle lettertypen zijn succesvol gewist"
+  },
+  "noRecentFonts": {
+    "message": "Geen recente lettertypen gevonden."
+  },
+  "colorPink": {
+    "message": "Roze"
+  },
+  "colorBrown": {
+    "message": "Bruin"
+  },
+  "colorBeige": {
+    "message": "Beige"
+  },
+  "feedbackTip": {
+    "message": "Uw feedback helpt ons DesignPicker te verbeteren. We waarderen uw tijd en suggesties."
+  },
+  "surveyInvite": {
+    "message": "Help de toekomst van DesignPicker vorm te geven door deel te nemen aan onze gebruikersenquête."
+  },
+  "colorBlack": {
+    "message": "Zwart"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "about": {
+    "message": "Over"
+  },
+  "defaultSettings": {
+    "message": "Algemene instellingen"
+  },
+  "defaultTab": {
+    "message": "Standaard tabblad"
+  },
+  "colorTabDesc": {
+    "message": "Kleuren tabblad: Bekijk en beheer kleuren op de pagina"
+  },
+  "fontTabDesc": {
+    "message": "Lettertypen tabblad: Bekijk en beheer lettertypen op de pagina"
+  },
+  "categoryViewDesc": {
+    "message": "Categorieweergave: Toon kleuren per categorie"
+  },
+  "unifiedViewDesc": {
+    "message": "Uniforme weergave: Toon alle kleuren op één pagina"
+  },
+  "defaultTabTip": {
+    "message": "Stel het standaard tabblad in dat wordt weergegeven bij het openen van de extensie"
+  },
+  "defaultColorLayout": {
+    "message": "Standaard kleurindeling"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Kies de standaard lay-outstijl voor kleurweergave"
+  },
+  "version": {
+    "message": "Versie"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback en suggesties"
+  },
+  "linksAndResources": {
+    "message": "Links en bronnen"
+  },
+  "colorWhite": {
+    "message": "Wit"
+  },
+  "colorGray": {
+    "message": "Grijs"
+  },
+  "colorOther": {
+    "message": "Overig"
+  },
+  "fontFamily": {
+    "message": "Lettertypefamilie"
+  },
+  "fontPreview": {
+    "message": "Lettertype-voorbeeld"
+  },
+  "fontStyles": {
+    "message": "Lettertypestijlen"
+  },
+  "fontTechnicalInfo": {
+    "message": "Lettertype-informatie"
+  },
+  "fontUsageCount": {
+    "message": "$1 keer gebruikt op deze pagina",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Kan geen verbinding maken met de pagina. Vernieuw en probeer het opnieuw."
+  },
+  "errorPageUnavailable": {
+    "message": "Kleurextractie wordt niet ondersteund op deze pagina. Probeer een andere pagina."
+  },
+  "errorNoColorsFound": {
+    "message": "Geen kleuren gevonden op deze pagina."
+  },
+  "fonts": {
+    "message": "Lettertypen"
+  },
+  "pickFont": {
+    "message": "Lettertype selecteren"
+  },
+  "fontCopied": {
+    "message": "Lettertype gekopieerd: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Geen lettertype gevonden op de geselecteerde positie"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Bevestigen"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "clearHistory": {
+    "message": "Geschiedenis wissen"
+  },
+  "clearHistoryConfirm": {
+    "message": "Weet u zeker dat u de volledige kleurgeschiedenis wilt wissen?"
+  },
+  "clearHistorySuccess": {
+    "message": "Kleurgeschiedenis succesvol gewist"
+  },
+  "clearHistoryError": {
+    "message": "Kon de kleurgeschiedenis niet wissen"
+  },
+  "emptyHistoryTip": {
+    "message": "Nog geen kleuren in de geschiedenis. Gebruik de kleurenkiezer om kleuren toe te voegen."
+  },
+  "fontsOnPage": {
+    "message": "Lettertypen op deze pagina"
+  },
+  "fontPreviewText": {
+    "message": "De snelle bruine vos springt over de luie hond"
+  },
+  "pickingColorTip": {
+    "message": "Klik om een willekeurige kleur op het scherm te selecteren"
+  },
+  "fontDetector": {
+    "message": "Lettertype-detector"
+  },
+  "exitFontDetector": {
+    "message": "Druk op ESC of dubbelklik om de lettertype-detector te verlaten"
+  },
+  "recentFonts": {
+    "message": "Recente lettertypen"
+  },
+  "clearFonts": {
+    "message": "Lettertypen wissen"
+  },
+  "saveFontSuccess": {
+    "message": "Lettertype opgeslagen"
+  },
+  "fontInformation": {
+    "message": "Lettertype-informatie"
+  },
+  "fontWeight": {
+    "message": "Lettertype-gewicht"
+  },
+  "fontSize": {
+    "message": "Lettergrootte"
+  },
+  "lineHeight": {
+    "message": "Regelhoogte"
+  },
+  "fontColor": {
+    "message": "Letterkleur"
+  },
+  "updateNoticeChangelog": {
+    "message": "Bekijk wijzigingslogboek →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] om lettertype op te slaan"
+  },
+  "fontSaved": {
+    "message": "Opgeslagen"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "general": {
+    "message": "Algemeen"
+  },
+  "deleteColorSuccess": {
+    "message": "Kleur succesvol verwijderd"
+  },
+  "deleteColorError": {
+    "message": "Fout bij het verwijderen van de kleur"
+  }
+}

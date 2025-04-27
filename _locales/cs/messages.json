@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Chytrý nástroj pro výběr barev a detekci písem"
+  },
+  "colors": {
+    "message": "Barvy"
+  },
+  "colorsOnPage": {
+    "message": "Barvy na této stránce"
+  },
+  "unifiedView": {
+    "message": "Přepnout na jednotné zobrazení"
+  },
+  "categoryView": {
+    "message": "Přepnout na zobrazení kategorií"
+  },
+  "allColors": {
+    "message": "Všechny barvy"
+  },
+  "switchToFormat": {
+    "message": "Přepnout na $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Úspěšně zkopírováno."
+  },
+  "errorNoColors": {
+    "message": "Na této stránce nebyly nalezeny žádné barvy."
+  },
+  "errorExtraction": {
+    "message": "Extrakce barev není pro tuto stránku k dispozici. Zkuste jinou stránku nebo obnovte tuto stránku."
+  },
+  "privacyPolicy": {
+    "message": "Zásady ochrany osobních údajů"
+  },
+  "rateUs": {
+    "message": "Ohodnoťte nás 5 hvězdičkami"
+  },
+  "changelog": {
+    "message": "Seznam změn"
+  },
+  "homepage": {
+    "message": "Navštivte naši domovskou stránku"
+  },
+  "showingRecentFonts": {
+    "message": "Nedávná písma"
+  },
+  "defaultColorFormat": {
+    "message": "Výchozí formát barvy"
+  },
+  "defaultColorFormatTip": {
+    "message": "Vyberte výchozí formát pro zobrazení hodnot barev"
+  },
+  "colorHistory": {
+    "message": "Nedávné barvy"
+  },
+  "history": {
+    "message": "Nedávné barvy"
+  },
+  "pickColor": {
+    "message": "Vybrat barvu"
+  },
+  "eyeDropperNotSupported": {
+    "message": "API EyeDropper není ve vašem prohlížeči podporováno"
+  },
+  "colorRed": {
+    "message": "Červená"
+  },
+  "colorOrange": {
+    "message": "Oranžová"
+  },
+  "colorYellow": {
+    "message": "Žlutá"
+  },
+  "colorLime": {
+    "message": "Limetková"
+  },
+  "colorGreen": {
+    "message": "Zelená"
+  },
+  "colorCyan": {
+    "message": "Azurová"
+  },
+  "colorBlue": {
+    "message": "Modrá"
+  },
+  "colorPurple": {
+    "message": "Fialová"
+  },
+  "colorMagenta": {
+    "message": "Purpurová"
+  },
+  "deleteColorConfirm": {
+    "message": "Opravdu chcete smazat tuto barvu?"
+  },
+  "clearFontsConfirm": {
+    "message": "Opravdu chcete vymazat VŠECHNA ULOŽENÁ písma?"
+  },
+  "deleteFontConfirm": {
+    "message": "Opravdu chcete smazat TOTO písmo?"
+  },
+  "deleteColor": {
+    "message": "Smazat barvu"
+  },
+  "deleteFonts": {
+    "message": "Vymazat všechna písma"
+  },
+  "clearFontsSuccess": {
+    "message": "Všechna písma byla úspěšně vymazána"
+  },
+  "noRecentFonts": {
+    "message": "Nebyla nalezena žádná nedávná písma."
+  },
+  "colorPink": {
+    "message": "Růžová"
+  },
+  "colorBrown": {
+    "message": "Hnědá"
+  },
+  "colorBeige": {
+    "message": "Béžová"
+  },
+  "feedbackTip": {
+    "message": "Vaše zpětná vazba nám pomáhá zlepšovat DesignPicker. Vážíme si vašeho času a návrhů."
+  },
+  "surveyInvite": {
+    "message": "Pomozte utvářet budoucnost DesignPickeru účastí v našem uživatelském průzkumu."
+  },
+  "colorBlack": {
+    "message": "Černá"
+  },
+  "settings": {
+    "message": "Nastavení"
+  },
+  "about": {
+    "message": "O aplikaci"
+  },
+  "defaultSettings": {
+    "message": "Obecná nastavení"
+  },
+  "defaultTab": {
+    "message": "Výchozí záložka"
+  },
+  "colorTabDesc": {
+    "message": "Záložka barev: Zobrazení a správa barev na stránce"
+  },
+  "fontTabDesc": {
+    "message": "Záložka písem: Zobrazení a správa písem na stránce"
+  },
+  "categoryViewDesc": {
+    "message": "Zobrazení kategorií: Zobrazení barev podle kategorií"
+  },
+  "unifiedViewDesc": {
+    "message": "Jednotné zobrazení: Zobrazení všech barev na jedné stránce"
+  },
+  "defaultTabTip": {
+    "message": "Nastavte výchozí záložku, která se zobrazí při otevření rozšíření"
+  },
+  "defaultColorLayout": {
+    "message": "Výchozí rozložení barev"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Vyberte výchozí styl rozložení pro zobrazení barev"
+  },
+  "version": {
+    "message": "Verze"
+  },
+  "feedback": {
+    "message": "Zpětná vazba"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Zpětná vazba a návrhy"
+  },
+  "linksAndResources": {
+    "message": "Odkazy a zdroje"
+  },
+  "colorWhite": {
+    "message": "Bílá"
+  },
+  "colorGray": {
+    "message": "Šedá"
+  },
+  "colorOther": {
+    "message": "Jiná"
+  },
+  "fontFamily": {
+    "message": "Rodina písma"
+  },
+  "fontPreview": {
+    "message": "Náhled písma"
+  },
+  "fontStyles": {
+    "message": "Styly písma"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informace o písmu"
+  },
+  "fontUsageCount": {
+    "message": "Použito $1 krát na této stránce",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Nelze se připojit ke stránce. Obnovte stránku a zkuste to znovu."
+  },
+  "errorPageUnavailable": {
+    "message": "Extrakce barev není na této stránce podporována. Zkuste jinou stránku."
+  },
+  "errorNoColorsFound": {
+    "message": "Na této stránce nebyly nalezeny žádné barvy."
+  },
+  "fonts": {
+    "message": "Písma"
+  },
+  "pickFont": {
+    "message": "Vybrat písmo"
+  },
+  "fontCopied": {
+    "message": "Písmo zkopírováno: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Na vybrané pozici nebylo nalezeno žádné písmo"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Potvrdit"
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "clearHistory": {
+    "message": "Vymazat historii"
+  },
+  "clearHistoryConfirm": {
+    "message": "Opravdu chcete vymazat celou historii barev?"
+  },
+  "clearHistorySuccess": {
+    "message": "Historie barev byla úspěšně vymazána"
+  },
+  "clearHistoryError": {
+    "message": "Nepodařilo se vymazat historii barev"
+  },
+  "emptyHistoryTip": {
+    "message": "V historii zatím nejsou žádné barvy. Použijte výběr barev pro přidání barev."
+  },
+  "fontsOnPage": {
+    "message": "Písma na této stránce"
+  },
+  "fontPreviewText": {
+    "message": "Příliš žluťoučký kůň úpěl ďábelské ódy"
+  },
+  "pickingColorTip": {
+    "message": "Klikněte pro výběr libovolné barvy na obrazovce"
+  },
+  "fontDetector": {
+    "message": "Detektor písma"
+  },
+  "exitFontDetector": {
+    "message": "Stiskněte ESC nebo dvakrát klikněte pro ukončení detektoru písma"
+  },
+  "recentFonts": {
+    "message": "Nedávná písma"
+  },
+  "clearFonts": {
+    "message": "Vymazat písma"
+  },
+  "saveFontSuccess": {
+    "message": "Písmo uloženo"
+  },
+  "fontInformation": {
+    "message": "Informace o písmu"
+  },
+  "fontWeight": {
+    "message": "Tloušťka písma"
+  },
+  "fontSize": {
+    "message": "Velikost písma"
+  },
+  "lineHeight": {
+    "message": "Výška řádku"
+  },
+  "fontColor": {
+    "message": "Barva písma"
+  },
+  "updateNoticeChangelog": {
+    "message": "Zobrazit seznam změn →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] pro uložení písma"
+  },
+  "fontSaved": {
+    "message": "Uloženo"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "general": {
+    "message": "Obecné"
+  },
+  "deleteColorSuccess": {
+    "message": "Barva byla úspěšně odstraněna"
+  },
+  "deleteColorError": {
+    "message": "Chyba při odstraňování barvy"
+  }
+}

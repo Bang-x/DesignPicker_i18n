@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "スマートなカラーピッカー＆フォント検出ツール"
+  },
+  "colors": {
+    "message": "カラー"
+  },
+  "colorsOnPage": {
+    "message": "ページ上のカラー"
+  },
+  "unifiedView": {
+    "message": "統合ビューに切り替え"
+  },
+  "categoryView": {
+    "message": "カテゴリービューに切り替え"
+  },
+  "allColors": {
+    "message": "すべてのカラー"
+  },
+  "switchToFormat": {
+    "message": "$format$形式に切り替え",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "コピーしました"
+  },
+  "errorNoColors": {
+    "message": "このページにカラーが見つかりません"
+  },
+  "errorExtraction": {
+    "message": "このページではカラーの抽出ができません。他のページを試すか、このページを更新してください"
+  },
+  "privacyPolicy": {
+    "message": "プライバシーポリシー"
+  },
+  "rateUs": {
+    "message": "評価する 🖐️ 星"
+  },
+  "changelog": {
+    "message": "更新履歴"
+  },
+  "homepage": {
+    "message": "ホームページを訪問"
+  },
+  "showingRecentFonts": {
+    "message": "最近のフォント"
+  },
+  "defaultColorFormat": {
+    "message": "デフォルトのカラー形式"
+  },
+  "defaultColorFormatTip": {
+    "message": "カラー値の表示に使用するデフォルト形式を選択"
+  },
+  "colorHistory": {
+    "message": "最近のカラー"
+  },
+  "history": {
+    "message": "最近のカラー"
+  },
+  "pickColor": {
+    "message": "カラーを選択"
+  },
+  "eyeDropperNotSupported": {
+    "message": "お使いのブラウザではスポイトAPIがサポートされていません"
+  },
+  "colorRed": {
+    "message": "レッド"
+  },
+  "colorOrange": {
+    "message": "オレンジ"
+  },
+  "colorYellow": {
+    "message": "イエロー"
+  },
+  "colorLime": {
+    "message": "ライム"
+  },
+  "colorGreen": {
+    "message": "グリーン"
+  },
+  "colorCyan": {
+    "message": "シアン"
+  },
+  "colorBlue": {
+    "message": "ブルー"
+  },
+  "colorPurple": {
+    "message": "パープル"
+  },
+  "colorMagenta": {
+    "message": "マゼンタ"
+  },
+  "deleteColorConfirm": {
+    "message": "このカラーを削除してもよろしいですか？"
+  },
+  "clearFontsConfirm": {
+    "message": "保存されているすべてのフォントを削除してもよろしいですか？"
+  },
+  "deleteFontConfirm": {
+    "message": "このフォントを削除してもよろしいですか？"
+  },
+  "deleteColor": {
+    "message": "カラーを削除"
+  },
+  "deleteFonts": {
+    "message": "すべてのフォントを削除"
+  },
+  "clearFontsSuccess": {
+    "message": "すべてのフォントを削除しました"
+  },
+  "noRecentFonts": {
+    "message": "最近のフォントがありません"
+  },
+  "colorPink": {
+    "message": "ピンク"
+  },
+  "colorBrown": {
+    "message": "ブラウン"
+  },
+  "colorBeige": {
+    "message": "ベージュ"
+  },
+  "feedbackTip": {
+    "message": "フィードバックはDesignPickerの改善に役立ちます。ご意見・ご提案をお寄せください"
+  },
+  "surveyInvite": {
+    "message": "ユーザーアンケートに参加してDesignPickerの未来を形作ってください"
+  },
+  "colorBlack": {
+    "message": "ブラック"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "about": {
+    "message": "概要"
+  },
+  "defaultSettings": {
+    "message": "一般設定"
+  },
+  "defaultTab": {
+    "message": "デフォルトタブ"
+  },
+  "colorTabDesc": {
+    "message": "カラータブ：ページ上のカラーを表示・管理"
+  },
+  "fontTabDesc": {
+    "message": "フォントタブ：ページ上のフォントを表示・管理"
+  },
+  "categoryViewDesc": {
+    "message": "カテゴリービュー：カラーをカテゴリー別に表示"
+  },
+  "unifiedViewDesc": {
+    "message": "統合ビュー：すべてのカラーを1ページで表示"
+  },
+  "defaultTabTip": {
+    "message": "拡張機能を開いたときに表示するデフォルトタブを設定"
+  },
+  "defaultColorLayout": {
+    "message": "デフォルトのカラーレイアウト"
+  },
+  "defaultColorLayoutTip": {
+    "message": "カラー表示のデフォルトレイアウトスタイルを選択"
+  },
+  "version": {
+    "message": "バージョン"
+  },
+  "feedback": {
+    "message": "フィードバック"
+  },
+  "feedbackAndSuggestions": {
+    "message": "フィードバックと提案"
+  },
+  "linksAndResources": {
+    "message": "リンクとリソース"
+  },
+  "colorWhite": {
+    "message": "ホワイト"
+  },
+  "colorGray": {
+    "message": "グレー"
+  },
+  "colorOther": {
+    "message": "その他"
+  },
+  "fontFamily": {
+    "message": "フォントファミリー"
+  },
+  "fontPreview": {
+    "message": "フォントプレビュー"
+  },
+  "fontStyles": {
+    "message": "フォントスタイル"
+  },
+  "fontTechnicalInfo": {
+    "message": "フォント技術情報"
+  },
+  "fontUsageCount": {
+    "message": "このページで$1回使用",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "ページに接続できません。更新して再試行してください"
+  },
+  "errorPageUnavailable": {
+    "message": "このページではカラーの抽出がサポートされていません。他のページを試してください"
+  },
+  "errorNoColorsFound": {
+    "message": "このページにカラーが見つかりません"
+  },
+  "fonts": {
+    "message": "フォント"
+  },
+  "pickFont": {
+    "message": "フォントを選択"
+  },
+  "fontCopied": {
+    "message": "フォントをコピーしました：$font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "選択位置にフォントが見つかりません"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "確認"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "clearHistory": {
+    "message": "履歴を削除"
+  },
+  "clearHistoryConfirm": {
+    "message": "すべてのカラー履歴を削除してもよろしいですか？"
+  },
+  "clearHistorySuccess": {
+    "message": "カラー履歴を削除しました"
+  },
+  "clearHistoryError": {
+    "message": "カラー履歴の削除に失敗しました"
+  },
+  "emptyHistoryTip": {
+    "message": "履歴にカラーがありません。スポイトを使用してカラーを追加してください"
+  },
+  "fontsOnPage": {
+    "message": "ページ上のフォント"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "クリックして画面上のカラーを選択"
+  },
+  "fontDetector": {
+    "message": "フォント検出"
+  },
+  "exitFontDetector": {
+    "message": "ESCキーまたはダブルクリックでフォント検出を終了"
+  },
+  "recentFonts": {
+    "message": "最近のフォント"
+  },
+  "clearFonts": {
+    "message": "フォントを削除"
+  },
+  "saveFontSuccess": {
+    "message": "フォントを保存しました"
+  },
+  "fontInformation": {
+    "message": "フォント情報"
+  },
+  "fontWeight": {
+    "message": "フォントウェイト"
+  },
+  "fontSize": {
+    "message": "フォントサイズ"
+  },
+  "lineHeight": {
+    "message": "行の高さ"
+  },
+  "fontColor": {
+    "message": "フォントカラー"
+  },
+  "updateNoticeChangelog": {
+    "message": "更新履歴を表示 →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S]でフォントを保存"
+  },
+  "fontSaved": {
+    "message": "フォントを保存しました"
+  }
+}

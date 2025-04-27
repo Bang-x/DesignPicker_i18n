@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Akıllı renk seçici ve yazı tipi algılama aracı"
+  },
+  "colors": {
+    "message": "Renkler"
+  },
+  "colorsOnPage": {
+    "message": "Bu Sayfadaki Renkler"
+  },
+  "unifiedView": {
+    "message": "Birleşik Görünüme Geç"
+  },
+  "categoryView": {
+    "message": "Kategori Görünümüne Geç"
+  },
+  "allColors": {
+    "message": "Tüm Renkler"
+  },
+  "switchToFormat": {
+    "message": "$format$ Formatına Geç",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Başarıyla kopyalandı."
+  },
+  "errorNoColors": {
+    "message": "Bu sayfada renk bulunamadı."
+  },
+  "errorExtraction": {
+    "message": "Bu sayfa için renk çıkarma kullanılamıyor. Lütfen başka bir sayfa deneyin veya bu sayfayı yenileyin."
+  },
+  "privacyPolicy": {
+    "message": "Gizlilik Politikası"
+  },
+  "rateUs": {
+    "message": "Bize 5 Yıldız Verin"
+  },
+  "changelog": {
+    "message": "Değişiklik Günlüğü"
+  },
+  "homepage": {
+    "message": "Ana Sayfamızı Ziyaret Edin"
+  },
+  "showingRecentFonts": {
+    "message": "Son Yazı Tipleri"
+  },
+  "defaultColorFormat": {
+    "message": "Varsayılan Renk Formatı"
+  },
+  "defaultColorFormatTip": {
+    "message": "Renk değerlerini görüntülemek için varsayılan formatı seçin"
+  },
+  "colorHistory": {
+    "message": "Son Renkler"
+  },
+  "history": {
+    "message": "Son Renkler"
+  },
+  "pickColor": {
+    "message": "Renk Seç"
+  },
+  "eyeDropperNotSupported": {
+    "message": "EyeDropper API tarayıcınızda desteklenmiyor"
+  },
+  "colorRed": {
+    "message": "Kırmızı"
+  },
+  "colorOrange": {
+    "message": "Turuncu"
+  },
+  "colorYellow": {
+    "message": "Sarı"
+  },
+  "colorLime": {
+    "message": "Limon"
+  },
+  "colorGreen": {
+    "message": "Yeşil"
+  },
+  "colorCyan": {
+    "message": "Camgöbeği"
+  },
+  "colorBlue": {
+    "message": "Mavi"
+  },
+  "colorPurple": {
+    "message": "Mor"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Bu rengi silmek istediğinizden emin misiniz?"
+  },
+  "clearFontsConfirm": {
+    "message": "TÜM KAYITLI yazı tiplerini temizlemek istediğinizden emin misiniz?"
+  },
+  "deleteFontConfirm": {
+    "message": "BU yazı tipini silmek istediğinizden emin misiniz?"
+  },
+  "deleteColor": {
+    "message": "Rengi Sil"
+  },
+  "deleteFonts": {
+    "message": "Tüm Yazı Tiplerini Temizle"
+  },
+  "clearFontsSuccess": {
+    "message": "Tüm yazı tipleri başarıyla temizlendi"
+  },
+  "noRecentFonts": {
+    "message": "Son yazı tipi bulunamadı."
+  },
+  "colorPink": {
+    "message": "Pembe"
+  },
+  "colorBrown": {
+    "message": "Kahverengi"
+  },
+  "colorBeige": {
+    "message": "Bej"
+  },
+  "feedbackTip": {
+    "message": "Geri bildiriminiz DesignPicker'ı geliştirmemize yardımcı olur. Zamanınız ve önerileriniz için teşekkür ederiz."
+  },
+  "surveyInvite": {
+    "message": "Kullanıcı anketimize katılarak DesignPicker'ın geleceğini şekillendirmeye yardımcı olun."
+  },
+  "colorBlack": {
+    "message": "Siyah"
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "defaultSettings": {
+    "message": "Genel Ayarlar"
+  },
+  "defaultTab": {
+    "message": "Varsayılan Sekme"
+  },
+  "colorTabDesc": {
+    "message": "Renkler Sekmesi: Sayfadaki renkleri görüntüleyin ve yönetin"
+  },
+  "fontTabDesc": {
+    "message": "Yazı Tipleri Sekmesi: Sayfadaki yazı tiplerini görüntüleyin ve yönetin"
+  },
+  "categoryViewDesc": {
+    "message": "Kategori Görünümü: Renkleri kategoriye göre gösterir"
+  },
+  "unifiedViewDesc": {
+    "message": "Birleşik Görünüm: Tüm renkleri tek bir sayfada gösterir"
+  },
+  "defaultTabTip": {
+    "message": "Eklenti açıldığında görüntülenecek varsayılan sekmeyi ayarlayın"
+  },
+  "defaultColorLayout": {
+    "message": "Varsayılan Renk Düzeni"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Renk görüntüleme için varsayılan düzen stilini seçin"
+  },
+  "version": {
+    "message": "Sürüm"
+  },
+  "feedback": {
+    "message": "Geri Bildirim"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Geri Bildirim ve Öneriler"
+  },
+  "linksAndResources": {
+    "message": "Bağlantılar ve Kaynaklar"
+  },
+  "colorWhite": {
+    "message": "Beyaz"
+  },
+  "colorGray": {
+    "message": "Gri"
+  },
+  "colorOther": {
+    "message": "Diğer"
+  },
+  "fontFamily": {
+    "message": "Yazı Tipi Ailesi"
+  },
+  "fontPreview": {
+    "message": "Yazı Tipi Önizleme"
+  },
+  "fontStyles": {
+    "message": "Yazı Tipi Stilleri"
+  },
+  "fontTechnicalInfo": {
+    "message": "Yazı Tipi Bilgileri"
+  },
+  "fontUsageCount": {
+    "message": "Bu sayfada $1 kez kullanıldı",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Sayfaya bağlanılamıyor. Lütfen yenileyin ve tekrar deneyin."
+  },
+  "errorPageUnavailable": {
+    "message": "Bu sayfada renk çıkarma desteklenmiyor. Lütfen başka bir sayfa deneyin."
+  },
+  "errorNoColorsFound": {
+    "message": "Bu sayfada renk bulunamadı."
+  },
+  "fonts": {
+    "message": "Yazı Tipleri"
+  },
+  "pickFont": {
+    "message": "Yazı Tipi Seç"
+  },
+  "fontCopied": {
+    "message": "Yazı tipi kopyalandı: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Seçilen konumda yazı tipi bulunamadı"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Onayla"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "clearHistory": {
+    "message": "Geçmişi Temizle"
+  },
+  "clearHistoryConfirm": {
+    "message": "Tüm renk geçmişini temizlemek istediğinizden emin misiniz?"
+  },
+  "clearHistorySuccess": {
+    "message": "Renk geçmişi başarıyla temizlendi"
+  },
+  "clearHistoryError": {
+    "message": "Renk geçmişi temizlenemedi"
+  },
+  "emptyHistoryTip": {
+    "message": "Henüz geçmişte renk yok. Renk eklemek için renk seçiciyi kullanın."
+  },
+  "fontsOnPage": {
+    "message": "Bu Sayfadaki Yazı Tipleri"
+  },
+  "fontPreviewText": {
+    "message": "Hızlı kahverengi tilki tembel köpeğin üzerinden atlar"
+  },
+  "pickingColorTip": {
+    "message": "Ekrandaki herhangi bir rengi seçmek için tıklayın"
+  },
+  "fontDetector": {
+    "message": "Yazı Tipi Dedektörü"
+  },
+  "exitFontDetector": {
+    "message": "Yazı Tipi Dedektöründen çıkmak için ESC tuşuna basın veya çift tıklayın"
+  },
+  "recentFonts": {
+    "message": "Son Yazı Tipleri"
+  },
+  "clearFonts": {
+    "message": "Yazı Tiplerini Temizle"
+  },
+  "saveFontSuccess": {
+    "message": "Yazı tipi kaydedildi"
+  },
+  "fontInformation": {
+    "message": "Yazı Tipi Bilgileri"
+  },
+  "fontWeight": {
+    "message": "Yazı Tipi Ağırlığı"
+  },
+  "fontSize": {
+    "message": "Yazı Tipi Boyutu"
+  },
+  "lineHeight": {
+    "message": "Satır Yüksekliği"
+  },
+  "fontColor": {
+    "message": "Yazı Tipi Rengi"
+  },
+  "updateNoticeChangelog": {
+    "message": "Değişiklik Günlüğünü Görüntüle →"
+  },
+  "clickshiftstoSave": {
+    "message": "Yazı tipini kaydetmek için [Shift+S]"
+  },
+  "fontSaved": {
+    "message": "Kaydedildi"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "general": {
+    "message": "Genel"
+  },
+  "deleteColorSuccess": {
+    "message": "Renk başarıyla kaldırıldı"
+  },
+  "deleteColorError": {
+    "message": "Renk kaldırılırken hata oluştu"
+  }
+}

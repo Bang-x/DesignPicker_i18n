@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "專業的配色提取和字體檢測工具"
+  },
+  "colors": {
+    "message": "顏色"
+  },
+  "colorsOnPage": {
+    "message": "頁面配色"
+  },
+  "unifiedView": {
+    "message": "切換到统一視圖"
+  },
+  "categoryView": {
+    "message": "切換到分類視圖"
+  },
+  "allColors": {
+    "message": "所有顏色"
+  },
+  "switchToFormat": {
+    "message": "切換到 $format$ 格式",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "複製成功"
+  },
+  "errorNoColors": {
+    "message": "當前頁面未找到顏色"
+  },
+  "errorExtraction": {
+    "message": "無法提取此頁面的顏色，請嘗試刷新頁面或訪問http开头的頁面"
+  },
+  "privacyPolicy": {
+    "message": "隱私政策"
+  },
+  "rateUs": {
+    "message": "请給我們🖐️星好評哟"
+  },
+  "changelog": {
+    "message": "更新日誌"
+  },
+  "defaultColorFormat": {
+    "message": "預設顏色格式"
+  },
+  "showingRecentFonts": {
+    "message": "最近保存的字體"
+  },
+  "defaultColorFormatTip": {
+    "message": "選擇顏色值的預設顯示格式"
+  },
+  "colorRed": {
+    "message": "紅色"
+  },
+  "colorOrange": {
+    "message": "橙色"
+  },
+  "colorYellow": {
+    "message": "黃色"
+  },
+  "colorLime": {
+    "message": "青檸色"
+  },
+  "colorGreen": {
+    "message": "綠色"
+  },
+  "colorCyan": {
+    "message": "青色"
+  },
+  "colorBlue": {
+    "message": "藍色"
+  },
+  "colorPurple": {
+    "message": "紫色"
+  },
+  "colorMagenta": {
+    "message": "品紅色"
+  },
+  "deleteColorConfirm": {
+    "message": "確定要刪除這個顏色嗎？"
+  },
+  "deleteColor": {
+    "message": "刪除顏色"
+  },
+  "deleteFonts": {
+    "message": "清除所有字體"
+  },
+  "clearFontsSuccess": {
+    "message": "所有字體已清除"
+  },
+  "noRecentFonts": {
+    "message": "暫無最近保存的字體"
+  },
+  "clearFontsConfirm": {
+    "message": "確定要清除所有已保存的字體嗎？"
+  },
+  "deleteFontConfirm": {
+    "message": "確定要刪除這個字體嗎？"
+  },
+  "colorPink": {
+    "message": "粉色"
+  },
+  "colorBrown": {
+    "message": "棕色"
+  },
+  "colorBeige": {
+    "message": "米色"
+  },
+  "feedbackTip": {
+    "message": "您的反饋對改進 DesignPicker 至關重要，感謝您的寶貴時間和建議。"
+  },
+  "surveyInvite": {
+    "message": "參與我們的用戶調查，一起塑造 DesignPicker 的未來。"
+  },
+  "colorBlack": {
+    "message": "黑色"
+  },
+  "settings": {
+    "message": "設置"
+  },
+  "about": {
+    "message": "關於"
+  },
+  "defaultSettings": {
+    "message": "基礎設置"
+  },
+  "defaultTab": {
+    "message": "默認標籤頁"
+  },
+  "colorTabDesc": {
+    "message": "顏色標籤頁：用於查看和管理頁面中的顏色"
+  },
+  "fontTabDesc": {
+    "message": "字體標籤頁：用於查看和管理頁面中的字體"
+  },
+  "categoryViewDesc": {
+    "message": "分類視圖：按照類別展示顏色"
+  },
+  "unifiedViewDesc": {
+    "message": "統一視圖：在一個頁面中展示所有顏色"
+  },
+  "defaultTabTip": {
+    "message": "選擇打開擴展時默認顯示的標籤頁"
+  },
+  "defaultColorLayout": {
+    "message": "默認顏色布局"
+  },
+  "defaultColorLayoutTip": {
+    "message": "選擇顏色顯示的默認布局樣式"
+  },
+  "version": {
+    "message": "版本"
+  },
+  "feedback": {
+    "message": "反饋"
+  },
+  "homepage": {
+    "message": "訪問我們的官網"
+  },
+  "feedbackAndSuggestions": {
+    "message": "反饋和建議"
+  },
+  "linksAndResources": {
+    "message": "鏈接和資源"
+  },
+  "colorWhite": {
+    "message": "白色"
+  },
+  "colorGray": {
+    "message": "灰色"
+  },
+  "colorOther": {
+    "message": "其他"
+  },
+  "fontFamily": {
+    "message": "字體"
+  },
+  "fontPreview": {
+    "message": "字體預覽"
+  },
+  "fontStyles": {
+    "message": "字體樣式"
+  },
+  "fontInformation": {
+    "message": "Font Information"
+  },
+  "fontWeight": {
+    "message": "Font Weight"
+  },
+  "fontSize": {
+    "message": "Font Size"
+  },
+  "lineHeight": {
+    "message": "Line Height"
+  },
+  "fontColor": {
+    "message": "Font Color"
+  },
+  "fontUsageCount": {
+    "message": "在此頁面使用了 $1 次",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "colorHistory": {
+    "message": "顏色歷史"
+  },
+  "history": {
+    "message": "最近的顏色"
+  },
+  "pickColor": {
+    "message": "取色器"
+  },
+  "eyeDropperNotSupported": {
+    "message": "您的瀏覽器不支持取色器功能"
+  },
+  "clearHistory": {
+    "message": "清除歷史記錄"
+  },
+  "clearHistoryConfirm": {
+    "message": "確定要清除所有顏色歷史記錄嗎？"
+  },
+  "clearHistorySuccess": {
+    "message": "歷史記錄已清除"
+  },
+  "clearHistoryError": {
+    "message": "清除歷史記錄失敗"
+  },
+  "errorConnection": {
+    "message": "無法與頁面建立連接，請刷新頁面重試。"
+  },
+  "errorPageUnavailable": {
+    "message": "當前頁面不支持顏色提取，請嘗試其他頁面。"
+  },
+  "errorNoColorsFound": {
+    "message": "當前頁面未找到任何顏色。"
+  },
+  "fonts": {
+    "message": "字體"
+  },
+  "pickFont": {
+    "message": "識別字體"
+  },
+  "fontCopied": {
+    "message": "已複製字體：$font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "未在選中位置找到字體"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker - 設計助手"
+  },
+  "confirm": {
+    "message": "確定"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "emptyHistoryTip": {
+    "message": "暫無顏色歷史記錄，使用取色器添加顏色"
+  },
+  "fontsOnPage": {
+    "message": "頁面字體"
+  },
+  "fontTechnicalInfo": {
+    "message": "字體資訊"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "點擊螢幕上的任意顏色"
+  },
+  "clearFonts": {
+    "message": "清除所有字體"
+  },
+  "fontDetector": {
+    "message": "字體識別器"
+  },
+  "exitFontDetector": {
+    "message": "按 ESC鍵 或 雙擊 以退出字體識別器"
+  },
+  "recentFonts": {
+    "message": "最近的字體"
+  },
+  "saveFontSuccess": {
+    "message": "字體已收藏"
+  },
+  "updateNoticeChangelog": {
+    "message": "查看更新日誌 →"
+  },
+  "clickshiftstoSave": {
+    "message": "按 [Shift+S] 保存字體"
+  },
+  "fontSaved": {
+    "message": "已保存"
+  }
+}

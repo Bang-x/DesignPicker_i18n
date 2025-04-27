@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Uma ferramenta inteligente para seleção de cores e detecção de fontes"
+  },
+  "colors": {
+    "message": "Cores"
+  },
+  "colorsOnPage": {
+    "message": "Cores nesta página"
+  },
+  "unifiedView": {
+    "message": "Mudar para visualização unificada"
+  },
+  "categoryView": {
+    "message": "Mudar para visualização por categoria"
+  },
+  "allColors": {
+    "message": "Todas as cores"
+  },
+  "switchToFormat": {
+    "message": "Mudar para $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Copiado com sucesso."
+  },
+  "errorNoColors": {
+    "message": "Nenhuma cor encontrada nesta página."
+  },
+  "errorExtraction": {
+    "message": "A extração de cores não está disponível para esta página. Por favor, tente uma página diferente ou atualize esta página."
+  },
+  "privacyPolicy": {
+    "message": "Política de Privacidade"
+  },
+  "rateUs": {
+    "message": "Avalie-nos com 5 Estrelas"
+  },
+  "changelog": {
+    "message": "Registro de alterações"
+  },
+  "homepage": {
+    "message": "Visite nossa página inicial"
+  },
+  "showingRecentFonts": {
+    "message": "Fontes recentes"
+  },
+  "defaultColorFormat": {
+    "message": "Formato de cor padrão"
+  },
+  "defaultColorFormatTip": {
+    "message": "Escolha o formato padrão para exibir valores de cores"
+  },
+  "colorHistory": {
+    "message": "Cores recentes"
+  },
+  "history": {
+    "message": "Cores recentes"
+  },
+  "pickColor": {
+    "message": "Selecionar uma cor"
+  },
+  "eyeDropperNotSupported": {
+    "message": "A API EyeDropper não é suportada no seu navegador"
+  },
+  "colorRed": {
+    "message": "Vermelho"
+  },
+  "colorOrange": {
+    "message": "Laranja"
+  },
+  "colorYellow": {
+    "message": "Amarelo"
+  },
+  "colorLime": {
+    "message": "Lima"
+  },
+  "colorGreen": {
+    "message": "Verde"
+  },
+  "colorCyan": {
+    "message": "Ciano"
+  },
+  "colorBlue": {
+    "message": "Azul"
+  },
+  "colorPurple": {
+    "message": "Roxo"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Tem certeza que deseja excluir esta cor?"
+  },
+  "clearFontsConfirm": {
+    "message": "Tem certeza que deseja limpar TODAS AS FONTES salvas?"
+  },
+  "deleteFontConfirm": {
+    "message": "Tem certeza que deseja excluir ESTA fonte?"
+  },
+  "deleteColor": {
+    "message": "Excluir Cor"
+  },
+  "deleteFonts": {
+    "message": "Limpar Todas as Fontes"
+  },
+  "clearFontsSuccess": {
+    "message": "Todas as fontes foram limpas com sucesso"
+  },
+  "noRecentFonts": {
+    "message": "Nenhuma fonte recente encontrada."
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorBrown": {
+    "message": "Marrom"
+  },
+  "colorBeige": {
+    "message": "Bege"
+  },
+  "feedbackTip": {
+    "message": "Seu feedback nos ajuda a melhorar o DesignPicker. Agradecemos seu tempo e sugestões."
+  },
+  "surveyInvite": {
+    "message": "Ajude a moldar o futuro do DesignPicker participando de nossa pesquisa de usuário."
+  },
+  "colorBlack": {
+    "message": "Preto"
+  },
+  "settings": {
+    "message": "Configurações"
+  },
+  "about": {
+    "message": "Sobre"
+  },
+  "defaultSettings": {
+    "message": "Configurações Gerais"
+  },
+  "defaultTab": {
+    "message": "Aba padrão"
+  },
+  "colorTabDesc": {
+    "message": "Aba de cores: Visualize e gerencie cores na página"
+  },
+  "fontTabDesc": {
+    "message": "Aba de fontes: Visualize e gerencie fontes na página"
+  },
+  "categoryViewDesc": {
+    "message": "Visualização por categoria: Exibe cores por categoria"
+  },
+  "unifiedViewDesc": {
+    "message": "Visualização unificada: Exibe todas as cores em uma página"
+  },
+  "defaultTabTip": {
+    "message": "Defina a aba padrão a ser exibida ao abrir a extensão"
+  },
+  "defaultColorLayout": {
+    "message": "Layout de cores padrão"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Escolha o estilo de layout padrão para a exibição de cores"
+  },
+  "version": {
+    "message": "Versão"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback e Sugestões"
+  },
+  "linksAndResources": {
+    "message": "Links e Recursos"
+  },
+  "colorWhite": {
+    "message": "Branco"
+  },
+  "colorGray": {
+    "message": "Cinza"
+  },
+  "colorOther": {
+    "message": "Outro"
+  },
+  "fontFamily": {
+    "message": "Família da Fonte"
+  },
+  "fontPreview": {
+    "message": "Pré-visualização da Fonte"
+  },
+  "fontStyles": {
+    "message": "Estilos de Fonte"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informações da Fonte"
+  },
+  "fontUsageCount": {
+    "message": "Usada $1 vezes nesta página",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Não foi possível conectar à página. Por favor, atualize e tente novamente."
+  },
+  "errorPageUnavailable": {
+    "message": "A extração de cores não é suportada nesta página. Por favor, tente outra página."
+  },
+  "errorNoColorsFound": {
+    "message": "Nenhuma cor encontrada nesta página."
+  },
+  "fonts": {
+    "message": "Fontes"
+  },
+  "pickFont": {
+    "message": "Selecionar Fonte"
+  },
+  "fontCopied": {
+    "message": "Fonte copiada: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Nenhuma fonte encontrada na posição selecionada"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Confirmar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "clearHistory": {
+    "message": "Limpar Histórico"
+  },
+  "clearHistoryConfirm": {
+    "message": "Tem certeza que deseja limpar todo o histórico de cores?"
+  },
+  "clearHistorySuccess": {
+    "message": "Histórico de cores limpo com sucesso"
+  },
+  "clearHistoryError": {
+    "message": "Falha ao limpar o histórico de cores"
+  },
+  "emptyHistoryTip": {
+    "message": "Ainda não há cores no histórico. Use o seletor de cores para adicionar cores."
+  },
+  "fontsOnPage": {
+    "message": "Fontes nesta Página"
+  },
+  "fontPreviewText": {
+    "message": "A rápida raposa marrom pula sobre o cão preguiçoso"
+  },
+  "pickingColorTip": {
+    "message": "Clique para selecionar qualquer cor na tela"
+  },
+  "fontDetector": {
+    "message": "Detector de Fontes"
+  },
+  "exitFontDetector": {
+    "message": "Pressione ESC ou Clique Duplo para sair do Detector de Fontes"
+  },
+  "recentFonts": {
+    "message": "Fontes Recentes"
+  },
+  "clearFonts": {
+    "message": "Limpar Fontes"
+  },
+  "saveFontSuccess": {
+    "message": "Fonte salva"
+  },
+  "fontInformation": {
+    "message": "Informações da Fonte"
+  },
+  "fontWeight": {
+    "message": "Peso da Fonte"
+  },
+  "fontSize": {
+    "message": "Tamanho da Fonte"
+  },
+  "lineHeight": {
+    "message": "Altura da Linha"
+  },
+  "fontColor": {
+    "message": "Cor da Fonte"
+  },
+  "updateNoticeChangelog": {
+    "message": "Ver Registro de Alterações →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] para salvar fonte"
+  },
+  "fontSaved": {
+    "message": "Salvo"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "general": {
+    "message": "Geral"
+  },
+  "deleteColorSuccess": {
+    "message": "Cor removida com sucesso"
+  },
+  "deleteColorError": {
+    "message": "Erro ao remover cor"
+  }
+}

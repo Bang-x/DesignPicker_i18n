@@ -1,0 +1,311 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "스마트한 색상 선택기 및 폰트 감지 도구"
+  },
+  "colors": {
+    "message": "색상"
+  },
+  "colorsOnPage": {
+    "message": "이 페이지의 색상"
+  },
+  "unifiedView": {
+    "message": "통합 보기로 전환"
+  },
+  "categoryView": {
+    "message": "카테고리 보기로 전환"
+  },
+  "allColors": {
+    "message": "모든 색상"
+  },
+  "switchToFormat": {
+    "message": "$format$로 전환",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "복사 완료"
+  },
+  "errorNoColors": {
+    "message": "이 페이지에서 색상을 찾을 수 없습니다."
+  },
+  "errorExtraction": {
+    "message": "이 페이지에서는 색상 추출을 사용할 수 없습니다. 다른 페이지를 시도하거나 이 페이지를 새로고침하세요."
+  },
+  "privacyPolicy": {
+    "message": "개인정보 보호정책"
+  },
+  "rateUs": {
+    "message": "평가하기 🖐️ 별점"
+  },
+  "changelog": {
+    "message": "변경 로그"
+  },
+  "homepage": {
+    "message": "홈페이지 방문"
+  },
+  "showingRecentFonts": {
+    "message": "최근 폰트"
+  },
+  "defaultColorFormat": {
+    "message": "기본 색상 형식"
+  },
+  "defaultColorFormatTip": {
+    "message": "색상 값을 표시할 기본 형식을 선택하세요"
+  },
+  "colorHistory": {
+    "message": "최근 색상"
+  },
+  "history": {
+    "message": "최근 색상"
+  },
+  "pickColor": {
+    "message": "색상 선택"
+  },
+  "eyeDropperNotSupported": {
+    "message": "이 브라우저에서는 스포이트 API를 지원하지 않습니다"
+  },
+  "colorRed": {
+    "message": "빨강"
+  },
+  "colorOrange": {
+    "message": "주황"
+  },
+  "colorYellow": {
+    "message": "노랑"
+  },
+  "colorLime": {
+    "message": "라임"
+  },
+  "colorGreen": {
+    "message": "초록"
+  },
+  "colorCyan": {
+    "message": "시안"
+  },
+  "colorBlue": {
+    "message": "파랑"
+  },
+  "colorPurple": {
+    "message": "보라"
+  },
+  "colorMagenta": {
+    "message": "마젠타"
+  },
+  "deleteColorConfirm": {
+    "message": "이 색상을 삭제하시겠습니까?"
+  },
+  "clearFontsConfirm": {
+    "message": "저장된 모든 폰트를 삭제하시겠습니까?"
+  },
+  "deleteFontConfirm": {
+    "message": "이 폰트를 삭제하시겠습니까?"
+  },
+  "deleteColor": {
+    "message": "색상 삭제"
+  },
+  "deleteFonts": {
+    "message": "모든 폰트 삭제"
+  },
+  "clearFontsSuccess": {
+    "message": "모든 폰트가 삭제되었습니다"
+  },
+  "noRecentFonts": {
+    "message": "최근 폰트가 없습니다"
+  },
+  "colorPink": {
+    "message": "분홍"
+  },
+  "colorBrown": {
+    "message": "갈색"
+  },
+  "colorBeige": {
+    "message": "베이지"
+  },
+  "feedbackTip": {
+    "message": "피드백은 DesignPicker 개선에 도움이 됩니다. 시간과 제안을 주셔서 감사합니다."
+  },
+  "surveyInvite": {
+    "message": "사용자 설문에 참여하여 DesignPicker의 미래를 함께 만들어주세요."
+  },
+  "colorBlack": {
+    "message": "검정"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "about": {
+    "message": "정보"
+  },
+  "defaultSettings": {
+    "message": "일반 설정"
+  },
+  "defaultTab": {
+    "message": "기본 탭"
+  },
+  "colorTabDesc": {
+    "message": "색상 탭: 페이지의 색상 보기 및 관리"
+  },
+  "fontTabDesc": {
+    "message": "폰트 탭: 페이지의 폰트 보기 및 관리"
+  },
+  "categoryViewDesc": {
+    "message": "카테고리 보기: 카테고리별로 색상 표시"
+  },
+  "unifiedViewDesc": {
+    "message": "통합 보기: 모든 색상을 한 페이지에 표시"
+  },
+  "defaultTabTip": {
+    "message": "확장 프로그램을 열 때 표시할 기본 탭 설정"
+  },
+  "defaultColorLayout": {
+    "message": "기본 색상 레이아웃"
+  },
+  "defaultColorLayoutTip": {
+    "message": "색상 표시를 위한 기본 레이아웃 스타일 선택"
+  },
+  "version": {
+    "message": "버전"
+  },
+  "feedback": {
+    "message": "피드백"
+  },
+  "feedbackAndSuggestions": {
+    "message": "피드백 및 제안"
+  },
+  "linksAndResources": {
+    "message": "링크 및 리소스"
+  },
+  "colorWhite": {
+    "message": "흰색"
+  },
+  "colorGray": {
+    "message": "회색"
+  },
+  "colorOther": {
+    "message": "기타"
+  },
+  "fontFamily": {
+    "message": "폰트 패밀리"
+  },
+  "fontPreview": {
+    "message": "폰트 미리보기"
+  },
+  "fontStyles": {
+    "message": "폰트 스타일"
+  },
+  "fontTechnicalInfo": {
+    "message": "폰트 기술 정보"
+  },
+  "fontUsageCount": {
+    "message": "이 페이지에서 $1번 사용됨",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "페이지에 연결할 수 없습니다. 새로고침 후 다시 시도해주세요"
+  },
+  "errorPageUnavailable": {
+    "message": "이 페이지에서는 색상 추출이 지원되지 않습니다. 다른 페이지를 시도해주세요"
+  },
+  "errorNoColorsFound": {
+    "message": "이 페이지에서 색상을 찾을 수 없습니다"
+  },
+  "fonts": {
+    "message": "폰트"
+  },
+  "pickFont": {
+    "message": "폰트 선택"
+  },
+  "fontCopied": {
+    "message": "폰트를 복사했습니다: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "선택한 위치에서 폰트를 찾을 수 없습니다"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "확인"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "clearHistory": {
+    "message": "기록 삭제"
+  },
+  "clearHistoryConfirm": {
+    "message": "모든 색상 기록을 삭제하시겠습니까?"
+  },
+  "clearHistorySuccess": {
+    "message": "색상 기록이 삭제되었습니다"
+  },
+  "clearHistoryError": {
+    "message": "색상 기록 삭제에 실패했습니다"
+  },
+  "emptyHistoryTip": {
+    "message": "기록에 색상이 없습니다. 스포이트를 사용하여 색상을 추가하세요"
+  },
+  "fontsOnPage": {
+    "message": "페이지의 폰트"
+  },
+  "fontPreviewText": {
+    "message": "The quick brown fox jumps over the lazy dog"
+  },
+  "pickingColorTip": {
+    "message": "화면에서 색상을 선택하려면 클릭하세요"
+  },
+  "fontDetector": {
+    "message": "폰트 감지"
+  },
+  "exitFontDetector": {
+    "message": "ESC 키나 더블클릭으로 폰트 감지 종료"
+  },
+  "recentFonts": {
+    "message": "최근 폰트"
+  },
+  "clearFonts": {
+    "message": "폰트 삭제"
+  },
+  "saveFontSuccess": {
+    "message": "폰트가 저장되었습니다"
+  },
+  "fontInformation": {
+    "message": "폰트 정보"
+  },
+  "fontWeight": {
+    "message": "폰트 두께"
+  },
+  "fontSize": {
+    "message": "폰트 크기"
+  },
+  "lineHeight": {
+    "message": "줄 높이"
+  },
+  "fontColor": {
+    "message": "폰트 색상"
+  },
+  "updateNoticeChangelog": {
+    "message": "변경 로그 보기 →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S]로 폰트 저장"
+  },
+  "fontSaved": {
+    "message": "폰트가 저장되었습니다"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "appName": {
+    "message": "DesignPicker"
+  },
+  "appDesc": {
+    "message": "Un instrument inteligent de selectare a culorilor și detectare a fonturilor"
+  },
+  "colors": {
+    "message": "Culori"
+  },
+  "colorsOnPage": {
+    "message": "Culori pe această pagină"
+  },
+  "unifiedView": {
+    "message": "Comutare la vizualizare unificată"
+  },
+  "categoryView": {
+    "message": "Comutare la vizualizare pe categorii"
+  },
+  "allColors": {
+    "message": "Toate culorile"
+  },
+  "switchToFormat": {
+    "message": "Comutare la $format$",
+    "placeholders": {
+      "format": {
+        "content": "$1"
+      }
+    }
+  },
+  "copied": {
+    "message": "Copiat cu succes."
+  },
+  "errorNoColors": {
+    "message": "Nu s-au găsit culori pe această pagină."
+  },
+  "errorExtraction": {
+    "message": "Extragerea culorilor nu este disponibilă pentru această pagină. Încercați o altă pagină sau reîmprospătați această pagină."
+  },
+  "privacyPolicy": {
+    "message": "Politica de confidențialitate"
+  },
+  "rateUs": {
+    "message": "Evaluați-ne cu 5 stele"
+  },
+  "changelog": {
+    "message": "Jurnal de modificări"
+  },
+  "homepage": {
+    "message": "Vizitați pagina noastră principală"
+  },
+  "showingRecentFonts": {
+    "message": "Fonturi recente"
+  },
+  "defaultColorFormat": {
+    "message": "Format implicit culoare"
+  },
+  "defaultColorFormatTip": {
+    "message": "Alegeți formatul implicit pentru afișarea valorilor culorilor"
+  },
+  "colorHistory": {
+    "message": "Culori recente"
+  },
+  "history": {
+    "message": "Culori recente"
+  },
+  "pickColor": {
+    "message": "Selectare culoare"
+  },
+  "eyeDropperNotSupported": {
+    "message": "API-ul EyeDropper nu este acceptat în browserul dvs."
+  },
+  "colorRed": {
+    "message": "Roșu"
+  },
+  "colorOrange": {
+    "message": "Portocaliu"
+  },
+  "colorYellow": {
+    "message": "Galben"
+  },
+  "colorLime": {
+    "message": "Verde lime"
+  },
+  "colorGreen": {
+    "message": "Verde"
+  },
+  "colorCyan": {
+    "message": "Cyan"
+  },
+  "colorBlue": {
+    "message": "Albastru"
+  },
+  "colorPurple": {
+    "message": "Violet"
+  },
+  "colorMagenta": {
+    "message": "Magenta"
+  },
+  "deleteColorConfirm": {
+    "message": "Sigur doriți să ștergeți această culoare?"
+  },
+  "clearFontsConfirm": {
+    "message": "Sigur doriți să ștergeți TOATE fonturile salvate?"
+  },
+  "deleteFontConfirm": {
+    "message": "Sigur doriți să ștergeți ACEST font?"
+  },
+  "deleteColor": {
+    "message": "Ștergere culoare"
+  },
+  "deleteFonts": {
+    "message": "Ștergere toate fonturile"
+  },
+  "clearFontsSuccess": {
+    "message": "Toate fonturile au fost șterse cu succes"
+  },
+  "noRecentFonts": {
+    "message": "Nu s-au găsit fonturi recente."
+  },
+  "colorPink": {
+    "message": "Roz"
+  },
+  "colorBrown": {
+    "message": "Maro"
+  },
+  "colorBeige": {
+    "message": "Bej"
+  },
+  "feedbackTip": {
+    "message": "Feedback-ul dvs. ne ajută să îmbunătățim DesignPicker. Apreciem timpul și sugestiile dvs."
+  },
+  "surveyInvite": {
+    "message": "Ajutați la modelarea viitorului DesignPicker participând la sondajul nostru pentru utilizatori."
+  },
+  "colorBlack": {
+    "message": "Negru"
+  },
+  "settings": {
+    "message": "Setări"
+  },
+  "about": {
+    "message": "Despre"
+  },
+  "defaultSettings": {
+    "message": "Setări generale"
+  },
+  "defaultTab": {
+    "message": "Filă implicită"
+  },
+  "colorTabDesc": {
+    "message": "Fila Culori: Vizualizați și gestionați culorile de pe pagină"
+  },
+  "fontTabDesc": {
+    "message": "Fila Fonturi: Vizualizați și gestionați fonturile de pe pagină"
+  },
+  "categoryViewDesc": {
+    "message": "Vizualizare pe categorii: Afișează culorile după categorie"
+  },
+  "unifiedViewDesc": {
+    "message": "Vizualizare unificată: Afișează toate culorile pe o singură pagină"
+  },
+  "defaultTabTip": {
+    "message": "Setați fila implicită care va fi afișată la deschiderea extensiei"
+  },
+  "defaultColorLayout": {
+    "message": "Aspect implicit culori"
+  },
+  "defaultColorLayoutTip": {
+    "message": "Alegeți stilul de aspect implicit pentru afișarea culorilor"
+  },
+  "version": {
+    "message": "Versiune"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedbackAndSuggestions": {
+    "message": "Feedback și sugestii"
+  },
+  "linksAndResources": {
+    "message": "Linkuri și resurse"
+  },
+  "colorWhite": {
+    "message": "Alb"
+  },
+  "colorGray": {
+    "message": "Gri"
+  },
+  "colorOther": {
+    "message": "Altele"
+  },
+  "fontFamily": {
+    "message": "Familia de fonturi"
+  },
+  "fontPreview": {
+    "message": "Previzualizare font"
+  },
+  "fontStyles": {
+    "message": "Stiluri font"
+  },
+  "fontTechnicalInfo": {
+    "message": "Informații despre font"
+  },
+  "fontUsageCount": {
+    "message": "Utilizat de $1 ori pe această pagină",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorConnection": {
+    "message": "Nu se poate conecta la pagină. Reîmprospătați și încercați din nou."
+  },
+  "errorPageUnavailable": {
+    "message": "Extragerea culorilor nu este acceptată pe această pagină. Încercați o altă pagină."
+  },
+  "errorNoColorsFound": {
+    "message": "Nu s-au găsit culori pe această pagină."
+  },
+  "fonts": {
+    "message": "Fonturi"
+  },
+  "pickFont": {
+    "message": "Selectare font"
+  },
+  "fontCopied": {
+    "message": "Font copiat: $font$",
+    "placeholders": {
+      "font": {
+        "content": "$1"
+      }
+    }
+  },
+  "fontNotFound": {
+    "message": "Nu s-a găsit niciun font la poziția selectată"
+  },
+  "contextMenuTitle": {
+    "message": "DesignPicker"
+  },
+  "confirm": {
+    "message": "Confirmare"
+  },
+  "cancel": {
+    "message": "Anulare"
+  },
+  "clearHistory": {
+    "message": "Ștergere istoric"
+  },
+  "clearHistoryConfirm": {
+    "message": "Sigur doriți să ștergeți tot istoricul culorilor?"
+  },
+  "clearHistorySuccess": {
+    "message": "Istoricul culorilor a fost șters cu succes"
+  },
+  "clearHistoryError": {
+    "message": "Nu s-a putut șterge istoricul culorilor"
+  },
+  "emptyHistoryTip": {
+    "message": "Nu există încă culori în istoric. Utilizați selectorul de culori pentru a adăuga culori."
+  },
+  "fontsOnPage": {
+    "message": "Fonturi pe această pagină"
+  },
+  "fontPreviewText": {
+    "message": "Vulpea maronie rapidă sare peste câinele leneș"
+  },
+  "pickingColorTip": {
+    "message": "Faceți clic pentru a selecta orice culoare de pe ecran"
+  },
+  "fontDetector": {
+    "message": "Detector de fonturi"
+  },
+  "exitFontDetector": {
+    "message": "Apăsați ESC sau faceți dublu clic pentru a ieși din Detectorul de fonturi"
+  },
+  "recentFonts": {
+    "message": "Fonturi recente"
+  },
+  "clearFonts": {
+    "message": "Ștergere fonturi"
+  },
+  "saveFontSuccess": {
+    "message": "Font salvat"
+  },
+  "fontInformation": {
+    "message": "Informații despre font"
+  },
+  "fontWeight": {
+    "message": "Grosime font"
+  },
+  "fontSize": {
+    "message": "Dimensiune font"
+  },
+  "lineHeight": {
+    "message": "Înălțime linie"
+  },
+  "fontColor": {
+    "message": "Culoare font"
+  },
+  "updateNoticeChangelog": {
+    "message": "Vizualizare jurnal de modificări →"
+  },
+  "clickshiftstoSave": {
+    "message": "[Shift+S] pentru a salva fontul"
+  },
+  "fontSaved": {
+    "message": "Salvat"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "general": {
+    "message": "General"
+  },
+  "deleteColorSuccess": {
+    "message": "Culoarea a fost eliminată cu succes"
+  },
+  "deleteColorError": {
+    "message": "Eroare la eliminarea culorii"
+  }
+}
